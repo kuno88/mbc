@@ -1,0 +1,29 @@
+<div class="container mt-5">
+    <form [formGroup]="formLineas">
+  <h2>Tabla nomenclador</h2>
+  <div class="container mt-3">
+    <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search...">
+    </div>
+  </div>
+  <table class="table table-striped mt-5">
+    <thead>
+      <tr>
+        <th>Codigo</th>
+        <th>Linea</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of nomenclator | paginate: { itemsPerPage: 10, currentPage: pages }">
+        <td>{{ item.codigo }}</td>
+        <td>{{ item.linea }}</td>
+      </tr>
+    </tbody>
+  </table>
+</form>
+</div>
+<pagination-controls
+  previousLabel="Prev"
+  nextLabel="Next"
+  (pageChange)="onTableDataChange($event)"
+></pagination-controls>

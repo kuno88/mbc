@@ -1,0 +1,3222 @@
+[
+  {
+    "codigo": "D001 ",
+    "linea": "BLANCO"
+  },
+  {
+    "codigo": "D002 ",
+    "linea": "BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D003 ",
+    "linea": "INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D004 ",
+    "linea": "NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D005 ",
+    "linea": "MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D006 ",
+    "linea": "MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D007 ",
+    "linea": "INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D008 ",
+    "linea": "NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D009 ",
+    "linea": "MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D010 ",
+    "linea": "MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D011 ",
+    "linea": "ALBINO"
+  },
+  {
+    "codigo": "D012 ",
+    "linea": "ALBINO DOMINANTE"
+  },
+  {
+    "codigo": "D013 ",
+    "linea": "INTENSO LUTINO"
+  },
+  {
+    "codigo": "D014 ",
+    "linea": "NEVADO LUTINO"
+  },
+  {
+    "codigo": "D015 ",
+    "linea": "MOSAICO LUTINO MACHO"
+  },
+  {
+    "codigo": "D016 ",
+    "linea": "MOSAICO LUTINO HEMBRA"
+  },
+  {
+    "codigo": "D017 ",
+    "linea": "INTENSO LUTINO MARFIL"
+  },
+  {
+    "codigo": "D018 ",
+    "linea": "NEVADO LUTINO MARFIL"
+  },
+  {
+    "codigo": "D019 ",
+    "linea": "MOSAICO LUTINO MARFIL MACHO"
+  },
+  {
+    "codigo": "D020 ",
+    "linea": "MOSAICO LUTINO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D021 ",
+    "linea": "INTENSO AMARILLO ALA BLANCA"
+  },
+  {
+    "codigo": "D022 ",
+    "linea": "NEVADO AMARILLO ALA BLANCA"
+  },
+  {
+    "codigo": "D023 ",
+    "linea": "MOSAICO AMARILLO ALA BLANCA MACHO"
+  },
+  {
+    "codigo": "D024 ",
+    "linea": "MOSAICO AMARILLO ALA BLANCA HEMBRA"
+  },
+  {
+    "codigo": "D025 ",
+    "linea": "INTENSO AMARILLO ALA BLANCA MARFIL"
+  },
+  {
+    "codigo": "D026 ",
+    "linea": "NEVADO AMARILLO ALA BLANCA MARFIL"
+  },
+  {
+    "codigo": "D027 ",
+    "linea": "MOSAICO AMARILLO ALA BLANCA MARFIL MACHO"
+  },
+  {
+    "codigo": "D028 ",
+    "linea": "MOSAICO AMARILLO ALA BLANCA MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D029 ",
+    "linea": "INTENSO LUTINO ALA BLANCA"
+  },
+  {
+    "codigo": "D030 ",
+    "linea": "NEVADO LUTINO ALA BLANCA"
+  },
+  {
+    "codigo": "D031 ",
+    "linea": "MOSAICO LUTINO ALA BLANCA MACHO"
+  },
+  {
+    "codigo": "D032 ",
+    "linea": "MOSAICO LUTINO ALA BLANCA HEMBRA"
+  },
+  {
+    "codigo": "D033 ",
+    "linea": "INTENSO LUTINO ALA BLANCA MARFIL"
+  },
+  {
+    "codigo": "D034 ",
+    "linea": "NEVADO LUTINO ALA BLANCA MARFIL"
+  },
+  {
+    "codigo": "D035 ",
+    "linea": "MOSAICO LUTINO ALA BLANCA MARFIL MACHO"
+  },
+  {
+    "codigo": "D036 ",
+    "linea": "MOSAICO LUTINO ALA BLANCA MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D037 ",
+    "linea": "INTENSO AMARILLO PICO AMARILLO"
+  },
+  {
+    "codigo": "D038 ",
+    "linea": "NEVADO AMARILLO PICO AMARILLO"
+  },
+  {
+    "codigo": "D039 ",
+    "linea": "INTENSO LUTINO PICO AMARILLO"
+  },
+  {
+    "codigo": "D040 ",
+    "linea": "NEVADO LUTINO PICO AMARILLO"
+  },
+  {
+    "codigo": "D041 ",
+    "linea": "INTENSO ROJO"
+  },
+  {
+    "codigo": "D042 ",
+    "linea": "NEVADO ROJO"
+  },
+  {
+    "codigo": "D043 ",
+    "linea": "MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D044 ",
+    "linea": "MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D045 ",
+    "linea": "INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D046 ",
+    "linea": "NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D047 ",
+    "linea": "MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D048 ",
+    "linea": "MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D049 ",
+    "linea": "INTENSO RUBINO"
+  },
+  {
+    "codigo": "D050 ",
+    "linea": "NEVADO RUBINO"
+  },
+  {
+    "codigo": "D051 ",
+    "linea": "MOSAICO RUBINO MACHO"
+  },
+  {
+    "codigo": "D052 ",
+    "linea": "MOSAICO RUBINO HEMBRA"
+  },
+  {
+    "codigo": "D053 ",
+    "linea": "INTENSO RUBINO MARFIL"
+  },
+  {
+    "codigo": "D054 ",
+    "linea": "NEVADO RUBINO MARFIL"
+  },
+  {
+    "codigo": "D055 ",
+    "linea": "MOSAICO RUBINO MARFIL MACHO"
+  },
+  {
+    "codigo": "D056 ",
+    "linea": "MOSAICO RUBINO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D057 ",
+    "linea": "INTENSO ROJO ALA BLANCA"
+  },
+  {
+    "codigo": "D058 ",
+    "linea": "NEVADO ROJO ALA BLANCA"
+  },
+  {
+    "codigo": "D059 ",
+    "linea": "MOSAICO ROJO ALA BLANCA MACHO"
+  },
+  {
+    "codigo": "D060 ",
+    "linea": "MOSAICO ROJO ALA BLANCA HEMBRA"
+  },
+  {
+    "codigo": "D061 ",
+    "linea": "INTENSO ROJO ALA BLANCA MARFIL"
+  },
+  {
+    "codigo": "D062 ",
+    "linea": "NEVADO ROJO ALA BLANCA MARFIL"
+  },
+  {
+    "codigo": "D063 ",
+    "linea": "MOSAICO ROJO ALA BLANCA MARFIL MACHO"
+  },
+  {
+    "codigo": "D064 ",
+    "linea": "MOSAICO ROJO ALA BLANCA MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D065 ",
+    "linea": "INTENSO RUBINO ALA BLANCA"
+  },
+  {
+    "codigo": "D066 ",
+    "linea": "NEVADO RUBINO ALA BLANCA"
+  },
+  {
+    "codigo": "D067 ",
+    "linea": "MOSAICO RUBINO ALA BLANCA MACHO"
+  },
+  {
+    "codigo": "D068 ",
+    "linea": "MOSAICO RUBINO ALA BLANCA HEMBRA"
+  },
+  {
+    "codigo": "D069 ",
+    "linea": "INTENSO RUBINO ALA BLANCA MARFIL"
+  },
+  {
+    "codigo": "D070 ",
+    "linea": "NEVADO RUBINO ALA BLANCA MARFIL"
+  },
+  {
+    "codigo": "D071 ",
+    "linea": "MOSAICO RUBINO ALA BLANCA MARFIL MACHO"
+  },
+  {
+    "codigo": "D072 ",
+    "linea": "MOSAICO RUBINO ALA BLANCA MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D073 ",
+    "linea": "INTENSO ROJO ÚRUCUM"
+  },
+  {
+    "codigo": "D074 ",
+    "linea": "NEVADO ROJO ÚRUCUM"
+  },
+  {
+    "codigo": "D075 ",
+    "linea": "MOSAICO ROJO ÚRUCUM MACHO"
+  },
+  {
+    "codigo": "D076 ",
+    "linea": "MOSAICO ROJO ÚRUCUM HEMBRA"
+  },
+  {
+    "codigo": "D077 ",
+    "linea": "INTENSO ROJO ÚRUCUM MARFIL"
+  },
+  {
+    "codigo": "D078 ",
+    "linea": "NEVADO ROJO ÚRUCUM MARFIL"
+  },
+  {
+    "codigo": "D079 ",
+    "linea": "MOSAICO ROJO ÚRUCUM MARFIL MACHO"
+  },
+  {
+    "codigo": "D080 ",
+    "linea": "MOSAICO ROJO ÚRUCUM MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D081 ",
+    "linea": "INTENSO RUBINO ÚRUCUM"
+  },
+  {
+    "codigo": "D082 ",
+    "linea": "NEVADO RUBINO ÚRUCUM"
+  },
+  {
+    "codigo": "D083 ",
+    "linea": "MOSAICO RUBINO ÚRUCUM MACHO"
+  },
+  {
+    "codigo": "D084 ",
+    "linea": "MOSAICO RUBINO ÚRUCUM HEMBRA"
+  },
+  {
+    "codigo": "D085 ",
+    "linea": "INTENSO RUBINO ÚRUCUM MARFIL"
+  },
+  {
+    "codigo": "D086 ",
+    "linea": "NEVADO RUBINO ÚRUCUM MARFIL"
+  },
+  {
+    "codigo": "D087 ",
+    "linea": "MOSAICO RUBINO ÚRUCUM MARFIL MACHO"
+  },
+  {
+    "codigo": "D088 ",
+    "linea": "MOSAICO RUBINO ÚRUCUM MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D089 ",
+    "linea": "NEGRO BLANCO"
+  },
+  {
+    "codigo": "D090 ",
+    "linea": "NEGRO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D091 ",
+    "linea": "NEGRO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D092 ",
+    "linea": "NEGRO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D093 ",
+    "linea": "NEGRO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D094 ",
+    "linea": "NEGRO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D095 ",
+    "linea": "NEGRO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D096 ",
+    "linea": "NEGRO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D097 ",
+    "linea": "NEGRO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D098 ",
+    "linea": "NEGRO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D099 ",
+    "linea": "CANELA BLANCO"
+  },
+  {
+    "codigo": "D100 ",
+    "linea": "CANELA BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D101 ",
+    "linea": "CANELA INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D102 ",
+    "linea": "CANELA NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D103 ",
+    "linea": "CANELA MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D104 ",
+    "linea": "CANELA MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D105 ",
+    "linea": "CANELA INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D106 ",
+    "linea": "CANELA NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D107 ",
+    "linea": "CANELA MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D108 ",
+    "linea": "CANELA MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D109 ",
+    "linea": "ÁGATA BLANCO"
+  },
+  {
+    "codigo": "D110 ",
+    "linea": "ÁGATA BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D111 ",
+    "linea": "ÁGATA INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D112 ",
+    "linea": "ÁGATA NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D113 ",
+    "linea": "ÁGATA MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D114 ",
+    "linea": "ÁGATA MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D115 ",
+    "linea": "ÁGATA INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D116 ",
+    "linea": "ÁGATA NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D117 ",
+    "linea": "ÁGATA MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D118 ",
+    "linea": "ÁGATA MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D119 ",
+    "linea": "ISABEL BLANCO"
+  },
+  {
+    "codigo": "D120 ",
+    "linea": "ISABEL BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D121 ",
+    "linea": "ISABEL INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D122 ",
+    "linea": "ISABEL NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D123 ",
+    "linea": "ISABEL MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D124 ",
+    "linea": "ISABEL MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D125 ",
+    "linea": "ISABEL INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D126 ",
+    "linea": "ISABEL NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D127 ",
+    "linea": "ISABEL MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D128 ",
+    "linea": "ISABEL MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D129 ",
+    "linea": "NEGRO INTENSO ROJO"
+  },
+  {
+    "codigo": "D130 ",
+    "linea": "NEGRO NEVADO ROJO"
+  },
+  {
+    "codigo": "D131 ",
+    "linea": "NEGRO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D132 ",
+    "linea": "NEGRO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D133 ",
+    "linea": "NEGRO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D134 ",
+    "linea": "NEGRO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D135 ",
+    "linea": "NEGRO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D136 ",
+    "linea": "NEGRO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D137 ",
+    "linea": "CANELA INTENSO ROJO"
+  },
+  {
+    "codigo": "D138 ",
+    "linea": "CANELA NEVADO ROJO"
+  },
+  {
+    "codigo": "D139 ",
+    "linea": "CANELA MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D140 ",
+    "linea": "CANELA MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D141 ",
+    "linea": "CANELA INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D142 ",
+    "linea": "CANELA NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D143 ",
+    "linea": "CANELA MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D144 ",
+    "linea": "CANELA MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D145 ",
+    "linea": "ÁGATA INTENSO ROJO"
+  },
+  {
+    "codigo": "D146 ",
+    "linea": "ÁGATA NEVADO ROJO"
+  },
+  {
+    "codigo": "D147 ",
+    "linea": "ÁGATA MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D148 ",
+    "linea": "ÁGATA MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D149 ",
+    "linea": "ÁGATA INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D150 ",
+    "linea": "ÁGATA NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D151 ",
+    "linea": "ÁGATA MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D152 ",
+    "linea": "ÁGATA MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D153 ",
+    "linea": "ISABEL INTENSO ROJO"
+  },
+  {
+    "codigo": "D154 ",
+    "linea": "ISABEL NEVADO ROJO"
+  },
+  {
+    "codigo": "D155 ",
+    "linea": "ISABEL MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D156 ",
+    "linea": "ISABEL MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D157 ",
+    "linea": "ISABEL INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D158 ",
+    "linea": "ISABEL NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D159 ",
+    "linea": "ISABEL MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D160 ",
+    "linea": "ISABEL MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D161 ",
+    "linea": "NEGRO PASTEL BLANCO"
+  },
+  {
+    "codigo": "D162 ",
+    "linea": "NEGRO PASTEL BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D163 ",
+    "linea": "NEGRO PASTEL INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D164 ",
+    "linea": "NEGRO PASTEL NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D165 ",
+    "linea": "NEGRO PASTEL MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D166 ",
+    "linea": "NEGRO PASTEL MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D167 ",
+    "linea": "NEGRO PASTEL INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D168 ",
+    "linea": "NEGRO PASTEL NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D169 ",
+    "linea": "NEGRO PASTEL MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D170 ",
+    "linea": "NEGRO PASTEL MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D171 ",
+    "linea": "CANELA PASTEL BLANCO"
+  },
+  {
+    "codigo": "D172 ",
+    "linea": "CANELA PASTEL BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D173 ",
+    "linea": "CANELA PASTEL INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D174 ",
+    "linea": "CANELA PASTEL NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D175 ",
+    "linea": "CANELA PASTEL MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D176 ",
+    "linea": "CANELA PASTEL MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D177 ",
+    "linea": "CANELA PASTEL INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D178 ",
+    "linea": "CANELA PASTEL NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D179 ",
+    "linea": "CANELA PASTEL MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D180 ",
+    "linea": "CANELA PASTEL MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D181 ",
+    "linea": "ÁGATA PASTEL BLANCO"
+  },
+  {
+    "codigo": "D182 ",
+    "linea": "ÁGATA PASTEL BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D183 ",
+    "linea": "ÁGATA PASTEL INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D184 ",
+    "linea": "ÁGATA PASTEL NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D185 ",
+    "linea": "ÁGATA PASTEL MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D186 ",
+    "linea": "ÁGATA PASTEL MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D187 ",
+    "linea": "ÁGATA PASTEL INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D188 ",
+    "linea": "ÁGATA PASTEL NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D189 ",
+    "linea": "ÁGATA PASTEL MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D190 ",
+    "linea": "ÁGATA PASTEL MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D191 ",
+    "linea": "ISABEL PASTEL BLANCO"
+  },
+  {
+    "codigo": "D192 ",
+    "linea": "ISABEL PASTEL BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D193 ",
+    "linea": "ISABEL PASTEL INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D194 ",
+    "linea": "ISABEL PASTEL NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D195 ",
+    "linea": "ISABEL PASTEL MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D196 ",
+    "linea": "ISABEL PASTEL MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D197 ",
+    "linea": "ISABEL PASTEL INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D198 ",
+    "linea": "ISABEL PASTEL NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D199 ",
+    "linea": "ISABEL PASTEL MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D200 ",
+    "linea": "ISABEL PASTEL MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D201 ",
+    "linea": "NEGRO PASTEL INTENSO ROJO"
+  },
+  {
+    "codigo": "D202 ",
+    "linea": "NEGRO PASTEL NEVADO ROJO"
+  },
+  {
+    "codigo": "D203 ",
+    "linea": "NEGRO PASTEL MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D204 ",
+    "linea": "NEGRO PASTEL MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D205 ",
+    "linea": "NEGRO PASTEL INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D206 ",
+    "linea": "NEGRO PASTEL NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D207 ",
+    "linea": "NEGRO PASTEL MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D208 ",
+    "linea": "NEGRO PASTEL MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D209 ",
+    "linea": "CANELA PASTEL INTENSO ROJO"
+  },
+  {
+    "codigo": "D210 ",
+    "linea": "CANELA PASTEL NEVADO ROJO"
+  },
+  {
+    "codigo": "D211 ",
+    "linea": "CANELA PASTEL MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D212 ",
+    "linea": "CANELA PASTEL MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D213 ",
+    "linea": "CANELA PASTEL INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D214 ",
+    "linea": "CANELA PASTEL NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D215 ",
+    "linea": "CANELA PASTEL MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D216 ",
+    "linea": "CANELA PASTEL MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D217 ",
+    "linea": "ÁGATA PASTEL INTENSO ROJO"
+  },
+  {
+    "codigo": "D218 ",
+    "linea": "ÁGATA PASTEL NEVADO ROJO"
+  },
+  {
+    "codigo": "D219 ",
+    "linea": "ÁGATA PASTEL MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D220 ",
+    "linea": "ÁGATA PASTEL MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D221 ",
+    "linea": "ÁGATA PASTEL INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D222 ",
+    "linea": "ÁGATA PASTEL NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D223 ",
+    "linea": "ÁGATA PASTEL MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D224 ",
+    "linea": "ÁGATA PASTEL MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D225 ",
+    "linea": "ISABEL PASTEL INTENSO ROJO"
+  },
+  {
+    "codigo": "D226 ",
+    "linea": "ISABEL PASTEL NEVADO ROJO"
+  },
+  {
+    "codigo": "D227 ",
+    "linea": "ISABEL PASTEL MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D228 ",
+    "linea": "ISABEL PASTEL MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D229 ",
+    "linea": "ISABEL PASTEL INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D230 ",
+    "linea": "ISABEL PASTEL NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D231 ",
+    "linea": "ISABEL PASTEL MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D232 ",
+    "linea": "ISABEL PASTEL MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D233 ",
+    "linea": "NEGRO OPALO BLANCO"
+  },
+  {
+    "codigo": "D234 ",
+    "linea": "NEGRO OPALO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D235 ",
+    "linea": "NEGRO OPALO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D236 ",
+    "linea": "NEGRO OPALO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D237 ",
+    "linea": "NEGRO OPALO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D238 ",
+    "linea": "NEGRO OPALO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D239 ",
+    "linea": "NEGRO OPALO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D240 ",
+    "linea": "NEGRO OPALO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D241 ",
+    "linea": "NEGRO OPALO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D242 ",
+    "linea": "NEGRO OPALO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D243 ",
+    "linea": "CANELA OPALO BLANCO"
+  },
+  {
+    "codigo": "D244 ",
+    "linea": "CANELA OPALO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D245 ",
+    "linea": "CANELA OPALO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D246 ",
+    "linea": "CANELA OPALO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D247 ",
+    "linea": "CANELA OPALO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D248 ",
+    "linea": "CANELA OPALO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D249 ",
+    "linea": "CANELA OPALO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D250 ",
+    "linea": "CANELA OPALO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D251 ",
+    "linea": "CANELA OPALO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D252 ",
+    "linea": "CANELA OPALO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D253 ",
+    "linea": "ÁGATA OPALO BLANCO"
+  },
+  {
+    "codigo": "D254 ",
+    "linea": "ÁGATA OPALO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D255 ",
+    "linea": "ÁGATA OPALO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D256 ",
+    "linea": "ÁGATA OPALO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D257 ",
+    "linea": "ÁGATA OPALO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D258 ",
+    "linea": "ÁGATA OPALO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D259 ",
+    "linea": "ÁGATA OPALO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D260 ",
+    "linea": "ÁGATA OPALO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D261 ",
+    "linea": "ÁGATA OPALO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D262 ",
+    "linea": "ÁGATA OPALO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D263 ",
+    "linea": "ISABEL OPALO BLANCO"
+  },
+  {
+    "codigo": "D264 ",
+    "linea": "ISABEL OPALO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D265 ",
+    "linea": "ISABEL OPALO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D266 ",
+    "linea": "ISABEL OPALO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D267 ",
+    "linea": "ISABEL OPALO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D268 ",
+    "linea": "ISABEL OPALO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D269 ",
+    "linea": "ISABEL OPALO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D270 ",
+    "linea": "ISABEL OPALO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D271 ",
+    "linea": "ISABEL OPALO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D272 ",
+    "linea": "ISABEL OPALO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D273 ",
+    "linea": "NEGRO OPALO INTENSO ROJO"
+  },
+  {
+    "codigo": "D274 ",
+    "linea": "NEGRO OPALO NEVADO ROJO"
+  },
+  {
+    "codigo": "D275 ",
+    "linea": "NEGRO OPALO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D276 ",
+    "linea": "NEGRO OPALO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D277 ",
+    "linea": "NEGRO OPALO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D278 ",
+    "linea": "NEGRO OPALO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D279 ",
+    "linea": "NEGRO OPALO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D280 ",
+    "linea": "NEGRO OPALO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D281 ",
+    "linea": "CANELA OPALO INTENSO ROJO"
+  },
+  {
+    "codigo": "D282 ",
+    "linea": "CANELA OPALO NEVADO ROJO"
+  },
+  {
+    "codigo": "D283 ",
+    "linea": "CANELA OPALO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D284 ",
+    "linea": "CANELA OPALO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D285 ",
+    "linea": "CANELA OPALO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D286 ",
+    "linea": "CANELA OPALO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D287 ",
+    "linea": "CANELA OPALO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D288 ",
+    "linea": "CANELA OPALO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D289 ",
+    "linea": "ÁGATA OPALO INTENSO ROJO"
+  },
+  {
+    "codigo": "D290 ",
+    "linea": "ÁGATA OPALO NEVADO ROJO"
+  },
+  {
+    "codigo": "D291 ",
+    "linea": "ÁGATA OPALO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D292 ",
+    "linea": "ÁGATA OPALO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D293 ",
+    "linea": "ÁGATA OPALO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D294 ",
+    "linea": "ÁGATA OPALO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D295 ",
+    "linea": "ÁGATA OPALO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D296 ",
+    "linea": "ÁGATA OPALO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D297 ",
+    "linea": "ISABEL OPALO INTENSO ROJO"
+  },
+  {
+    "codigo": "D298 ",
+    "linea": "ISABEL OPALO NEVADO ROJO"
+  },
+  {
+    "codigo": "D299 ",
+    "linea": "ISABEL OPALO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D300 ",
+    "linea": "ISABEL OPALO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D301 ",
+    "linea": "ISABEL OPALO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D302 ",
+    "linea": "ISABEL OPALO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D303 ",
+    "linea": "ISABEL OPALO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D304 ",
+    "linea": "ISABEL OPALO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D305 ",
+    "linea": "FEO ALBINO MACHO"
+  },
+  {
+    "codigo": "D306 ",
+    "linea": "FEO ALBINO DOMINANTE MACHO"
+  },
+  {
+    "codigo": "D307 ",
+    "linea": "FEO INTENSO LUTINO MACHO"
+  },
+  {
+    "codigo": "D308 ",
+    "linea": "FEO NEVADO LUTINO MACHO"
+  },
+  {
+    "codigo": "D309 ",
+    "linea": "FEO MOSAICO LUTINO MACHO"
+  },
+  {
+    "codigo": "D310 ",
+    "linea": "FEO INTENSO LUTINO MARFIL MACHO"
+  },
+  {
+    "codigo": "D311 ",
+    "linea": "FEO NEVADO LUTINO MARFIL MACHO"
+  },
+  {
+    "codigo": "D312 ",
+    "linea": "FEO MOSAICO LUTINO MARFIL MACHO"
+  },
+  {
+    "codigo": "D313 ",
+    "linea": "FEO ALBINO HEMBRA"
+  },
+  {
+    "codigo": "D314 ",
+    "linea": "FEO ALBINO DOMINANTE HEMBRA"
+  },
+  {
+    "codigo": "D315 ",
+    "linea": "FEO INTENSO LUTINO HEMBRA"
+  },
+  {
+    "codigo": "D316 ",
+    "linea": "FEO NEVADO LUTINO HEMBRA"
+  },
+  {
+    "codigo": "D317 ",
+    "linea": "FEO MOSAICO LUTINO HEMBRA"
+  },
+  {
+    "codigo": "D318 ",
+    "linea": "FEO INTENSO LUTINO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D319 ",
+    "linea": "FEO NEVADO LUTINO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D320 ",
+    "linea": "FEO MOSAICO LUTINO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D321 ",
+    "linea": "FEO INTENSO RUBINO MACHO"
+  },
+  {
+    "codigo": "D322 ",
+    "linea": "FEO NEVADO RUBINO MACHO"
+  },
+  {
+    "codigo": "D323 ",
+    "linea": "FEO MOSAICO RUBINO MACHO"
+  },
+  {
+    "codigo": "D324 ",
+    "linea": "FEO INTENSO RUBINO MARFIL MACHO"
+  },
+  {
+    "codigo": "D325 ",
+    "linea": "FEO NEVADO RUBINO MARFIL MACHO"
+  },
+  {
+    "codigo": "D326 ",
+    "linea": "FEO MOSAICO RUBINO MARFIL MACHO"
+  },
+  {
+    "codigo": "D327 ",
+    "linea": "FEO INTENSO RUBINO HEMBRA"
+  },
+  {
+    "codigo": "D328 ",
+    "linea": "FEO NEVADO RUBINO HEMBRA"
+  },
+  {
+    "codigo": "D329 ",
+    "linea": "FEO MOSAICO RUBINO HEMBRA"
+  },
+  {
+    "codigo": "D330 ",
+    "linea": "FEO INTENSO RUBINO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D331 ",
+    "linea": "FEO NEVADO RUBINO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D332 ",
+    "linea": "FEO MOSAICO RUBINO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D333 ",
+    "linea": "SATINÉ BLANCO"
+  },
+  {
+    "codigo": "D334 ",
+    "linea": "SATINÉ BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D335 ",
+    "linea": "SATINÉ INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D336 ",
+    "linea": "SATINÉ NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D337 ",
+    "linea": "SATINÉ MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D338 ",
+    "linea": "SATINÉ MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D339 ",
+    "linea": "SATINÉ INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D340 ",
+    "linea": "SATINÉ NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D341 ",
+    "linea": "SATINÉ MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D342 ",
+    "linea": "SATINÉ MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D343 ",
+    "linea": "SATINÉ INTENSO ROJO"
+  },
+  {
+    "codigo": "D344 ",
+    "linea": "SATINÉ NEVADO ROJO"
+  },
+  {
+    "codigo": "D345 ",
+    "linea": "SATINÉ MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D346 ",
+    "linea": "SATINÉ MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D347 ",
+    "linea": "SATINÉ INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D348 ",
+    "linea": "SATINÉ NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D349 ",
+    "linea": "SATINÉ MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D350 ",
+    "linea": "SATINÉ MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D351 ",
+    "linea": "NEGRO ALAS GRISES BLANCO"
+  },
+  {
+    "codigo": "D352 ",
+    "linea": "NEGRO ALAS GRISES BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D353 ",
+    "linea": "NEGRO ALAS GRISES INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D354 ",
+    "linea": "NEGRO ALAS GRISES NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D355 ",
+    "linea": "NEGRO ALAS GRISES MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D356 ",
+    "linea": "NEGRO ALAS GRISES MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D357 ",
+    "linea": "NEGRO ALAS GRISES INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D358 ",
+    "linea": "NEGRO ALAS GRISES NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D359 ",
+    "linea": "NEGRO ALAS GRISES MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D360 ",
+    "linea": "NEGRO ALAS GRISES MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D361 ",
+    "linea": "NEGRO ALAS GRISES INTENSO ROJO"
+  },
+  {
+    "codigo": "D362 ",
+    "linea": "NEGRO ALAS GRISES NEVADO ROJO"
+  },
+  {
+    "codigo": "D363 ",
+    "linea": "NEGRO ALAS GRISES MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D364 ",
+    "linea": "NEGRO ALAS GRISES MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D365 ",
+    "linea": "NEGRO ALAS GRISES INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D366 ",
+    "linea": "NEGRO ALAS GRISES NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D367 ",
+    "linea": "NEGRO ALAS GRISES MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D368 ",
+    "linea": "NEGRO ALAS GRISES MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D369 ",
+    "linea": "NEGRO TOPACIO BLANCO"
+  },
+  {
+    "codigo": "D370 ",
+    "linea": "NEGRO TOPACIO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D371 ",
+    "linea": "NEGRO TOPACIO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D372 ",
+    "linea": "NEGRO TOPACIO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D373 ",
+    "linea": "NEGRO TOPACIO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D374 ",
+    "linea": "NEGRO TOPACIO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D375 ",
+    "linea": "NEGRO TOPACIO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D376 ",
+    "linea": "NEGRO TOPACIO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D377 ",
+    "linea": "NEGRO TOPACIO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D378 ",
+    "linea": "NEGRO TOPACIO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D379 ",
+    "linea": "CANELA TOPACIO BLANCO"
+  },
+  {
+    "codigo": "D380 ",
+    "linea": "CANELA TOPACIO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D381 ",
+    "linea": "CANELA TOPACIO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D382 ",
+    "linea": "CANELA TOPACIO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D383 ",
+    "linea": "CANELA TOPACIO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D384 ",
+    "linea": "CANELA TOPACIO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D385 ",
+    "linea": "CANELA TOPACIO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D386 ",
+    "linea": "CANELA TOPACIO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D387 ",
+    "linea": "CANELA TOPACIO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D388 ",
+    "linea": "CANELA TOPACIO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D389 ",
+    "linea": "ÁGATA TOPACIO BLANCO"
+  },
+  {
+    "codigo": "D390 ",
+    "linea": "ÁGATA TOPACIO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D391 ",
+    "linea": "ÁGATA TOPACIO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D392 ",
+    "linea": "ÁGATA TOPACIO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D393 ",
+    "linea": "ÁGATA TOPACIO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D394 ",
+    "linea": "ÁGATA TOPACIO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D395 ",
+    "linea": "ÁGATA TOPACIO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D396 ",
+    "linea": "ÁGATA TOPACIO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D397 ",
+    "linea": "ÁGATA TOPACIO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D398 ",
+    "linea": "ÁGATA TOPACIO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D399 ",
+    "linea": "ISABEL TOPACIO BLANCO"
+  },
+  {
+    "codigo": "D400 ",
+    "linea": "ISABEL TOPACIO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D401 ",
+    "linea": "ISABEL TOPACIO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D402 ",
+    "linea": "ISABEL TOPACIO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D403 ",
+    "linea": "ISABEL TOPACIO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D404 ",
+    "linea": "ISABEL TOPACIO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D405 ",
+    "linea": "ISABEL TOPACIO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D406 ",
+    "linea": "ISABEL TOPACIO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D407 ",
+    "linea": "ISABEL TOPACIO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D408 ",
+    "linea": "ISABEL TOPACIO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D409 ",
+    "linea": "NEGRO TOPACIO INTENSO ROJO"
+  },
+  {
+    "codigo": "D410 ",
+    "linea": "NEGRO TOPACIO NEVADO ROJO"
+  },
+  {
+    "codigo": "D411 ",
+    "linea": "NEGRO TOPACIO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D412 ",
+    "linea": "NEGRO TOPACIO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D413 ",
+    "linea": "NEGRO TOPACIO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D414 ",
+    "linea": "NEGRO TOPACIO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D415 ",
+    "linea": "NEGRO TOPACIO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D416 ",
+    "linea": "NEGRO TOPACIO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D417 ",
+    "linea": "CANELA TOPACIO INTENSO ROJO"
+  },
+  {
+    "codigo": "D418 ",
+    "linea": "CANELA TOPACIO NEVADO ROJO"
+  },
+  {
+    "codigo": "D419 ",
+    "linea": "CANELA TOPACIO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D420 ",
+    "linea": "CANELA TOPACIO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D421 ",
+    "linea": "CANELA TOPACIO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D422 ",
+    "linea": "CANELA TOPACIO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D423 ",
+    "linea": "CANELA TOPACIO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D424 ",
+    "linea": "CANELA TOPACIO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D425 ",
+    "linea": "ÁGATA TOPACIO INTENSO ROJO"
+  },
+  {
+    "codigo": "D426 ",
+    "linea": "ÁGATA TOPACIO NEVADO ROJO"
+  },
+  {
+    "codigo": "D427 ",
+    "linea": "ÁGATA TOPACIO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D428 ",
+    "linea": "ÁGATA TOPACIO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D429 ",
+    "linea": "ÁGATA TOPACIO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D430 ",
+    "linea": "ÁGATA TOPACIO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D431 ",
+    "linea": "ÁGATA TOPACIO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D432 ",
+    "linea": "ÁGATA TOPACIO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D433 ",
+    "linea": "ISABEL TOPACIO INTENSO ROJO"
+  },
+  {
+    "codigo": "D434 ",
+    "linea": "ISABEL TOPACIO NEVADO ROJO"
+  },
+  {
+    "codigo": "D435 ",
+    "linea": "ISABEL TOPACIO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D436 ",
+    "linea": "ISABEL TOPACIO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D437 ",
+    "linea": "ISABEL TOPACIO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D438 ",
+    "linea": "ISABEL TOPACIO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D439 ",
+    "linea": "ISABEL TOPACIO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D440 ",
+    "linea": "ISABEL TOPACIO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D441 ",
+    "linea": "NEGRO EUMO BLANCO"
+  },
+  {
+    "codigo": "D442 ",
+    "linea": "NEGRO EUMO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D443 ",
+    "linea": "NEGRO EUMO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D444 ",
+    "linea": "NEGRO EUMO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D445 ",
+    "linea": "NEGRO EUMO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D446 ",
+    "linea": "NEGRO EUMO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D447 ",
+    "linea": "NEGRO EUMO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D448 ",
+    "linea": "NEGRO EUMO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D449 ",
+    "linea": "NEGRO EUMO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D450 ",
+    "linea": "NEGRO EUMO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D451 ",
+    "linea": "CANELA EUMO BLANCO"
+  },
+  {
+    "codigo": "D452 ",
+    "linea": "CANELA EUMO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D453 ",
+    "linea": "CANELA EUMO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D454 ",
+    "linea": "CANELA EUMO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D455 ",
+    "linea": "CANELA EUMO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D456 ",
+    "linea": "CANELA EUMO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D457 ",
+    "linea": "CANELA EUMO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D458 ",
+    "linea": "CANELA EUMO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D459 ",
+    "linea": "CANELA EUMO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D460 ",
+    "linea": "CANELA EUMO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D461 ",
+    "linea": "ÁGATA EUMO BLANCO"
+  },
+  {
+    "codigo": "D462 ",
+    "linea": "ÁGATA EUMO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D463 ",
+    "linea": "ÁGATA EUMO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D464 ",
+    "linea": "ÁGATA EUMO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D465 ",
+    "linea": "ÁGATA EUMO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D466 ",
+    "linea": "ÁGATA EUMO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D467 ",
+    "linea": "ÁGATA EUMO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D468 ",
+    "linea": "ÁGATA EUMO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D469 ",
+    "linea": "ÁGATA EUMO MOSAICO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D470 ",
+    "linea": "ÁGATA EUMO MOSAICO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D471 ",
+    "linea": "NEGRO EUMO INTENSO ROJO"
+  },
+  {
+    "codigo": "D472 ",
+    "linea": "NEGRO EUMO NEVADO ROJO"
+  },
+  {
+    "codigo": "D473 ",
+    "linea": "NEGRO EUMO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D474 ",
+    "linea": "NEGRO EUMO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D475 ",
+    "linea": "NEGRO EUMO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D476 ",
+    "linea": "NEGRO EUMO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D477 ",
+    "linea": "NEGRO EUMO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D478 ",
+    "linea": "NEGRO EUMO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D479 ",
+    "linea": "CANELA EUMO INTENSO ROJO"
+  },
+  {
+    "codigo": "D480 ",
+    "linea": "CANELA EUMO NEVADO ROJO"
+  },
+  {
+    "codigo": "D481 ",
+    "linea": "CANELA EUMO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D482 ",
+    "linea": "CANELA EUMO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D483 ",
+    "linea": "CANELA EUMO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D484 ",
+    "linea": "CANELA EUMO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D485 ",
+    "linea": "CANELA EUMO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D486 ",
+    "linea": "CANELA EUMO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D487 ",
+    "linea": "ÁGATA EUMO INTENSO ROJO"
+  },
+  {
+    "codigo": "D488 ",
+    "linea": "ÁGATA EUMO NEVADO ROJO"
+  },
+  {
+    "codigo": "D489 ",
+    "linea": "ÁGATA EUMO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D490 ",
+    "linea": "ÁGATA EUMO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D491 ",
+    "linea": "ÁGATA EUMO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D492 ",
+    "linea": "ÁGATA EUMO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D493 ",
+    "linea": "ÁGATA EUMO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D494 ",
+    "linea": "ÁGATA EUMO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D495 ",
+    "linea": "NEGRO ÓNIX BLANCO"
+  },
+  {
+    "codigo": "D496 ",
+    "linea": "NEGRO ÓNIX BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D497 ",
+    "linea": "NEGRO ÓNIX INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D498 ",
+    "linea": "NEGRO ÓNIX NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D499 ",
+    "linea": "NEGRO ÓNIX MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D500 ",
+    "linea": "NEGRO ÓNIX MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D501 ",
+    "linea": "NEGRO ÓNIX INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D502 ",
+    "linea": "NEGRO ÓNIX NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D503 ",
+    "linea": "NEGRO ÓNIX MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D504 ",
+    "linea": "NEGRO ÓNIX MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D505 ",
+    "linea": "CANELA ÓNIX BLANCO"
+  },
+  {
+    "codigo": "D506 ",
+    "linea": "CANELA ÓNIX BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D507 ",
+    "linea": "CANELA ÓNIX INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D508 ",
+    "linea": "CANELA ÓNIX NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D509 ",
+    "linea": "CANELA ÓNIX MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D510 ",
+    "linea": "CANELA ÓNIX MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D511 ",
+    "linea": "CANELA ÓNIX INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D512 ",
+    "linea": "CANELA ÓNIX NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D513 ",
+    "linea": "CANELA ÓNIX MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D514 ",
+    "linea": "CANELA ÓNIX MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D515 ",
+    "linea": "ÁGATA ÓNIX BLANCO"
+  },
+  {
+    "codigo": "D516 ",
+    "linea": "ÁGATA ÓNIX BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D517 ",
+    "linea": "ÁGATA ÓNIX INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D518 ",
+    "linea": "ÁGATA ÓNIX NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D519 ",
+    "linea": "ÁGATA ÓNIX MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D520 ",
+    "linea": "ÁGATA ÓNIX MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D521 ",
+    "linea": "ÁGATA ÓNIX INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D522 ",
+    "linea": "ÁGATA ÓNIX NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D523 ",
+    "linea": "ÁGATA ÓNIX MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D524 ",
+    "linea": "ÁGATA ÓNIX MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D525 ",
+    "linea": "ISABEL ÓNIX BLANCO"
+  },
+  {
+    "codigo": "D526 ",
+    "linea": "ISABEL ÓNIX BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D527 ",
+    "linea": "ISABEL ÓNIX INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D528 ",
+    "linea": "ISABEL ÓNIX NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D529 ",
+    "linea": "ISABEL ÓNIX MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D530 ",
+    "linea": "ISABEL ÓNIX MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D531 ",
+    "linea": "ISABEL ÓNIX INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D532 ",
+    "linea": "ISABEL ÓNIX NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D533 ",
+    "linea": "ISABEL ÓNIX MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D534 ",
+    "linea": "ISABEL ÓNIX MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D535 ",
+    "linea": "NEGRO ÓNIX INTENSO ROJO"
+  },
+  {
+    "codigo": "D536 ",
+    "linea": "NEGRO ÓNIX NEVADO ROJO"
+  },
+  {
+    "codigo": "D537 ",
+    "linea": "NEGRO ÓNIX MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D538 ",
+    "linea": "NEGRO ÓNIX MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D539 ",
+    "linea": "NEGRO ÓNIX INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D540 ",
+    "linea": "NEGRO ÓNIX NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D541 ",
+    "linea": "NEGRO ÓNIX MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D542 ",
+    "linea": "NEGRO ÓNIX MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D543 ",
+    "linea": "CANELA ÓNIX INTENSO ROJO"
+  },
+  {
+    "codigo": "D544 ",
+    "linea": "CANELA ÓNIX NEVADO ROJO"
+  },
+  {
+    "codigo": "D545 ",
+    "linea": "CANELA ÓNIX MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D546 ",
+    "linea": "CANELA ÓNIX MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D547 ",
+    "linea": "CANELA ÓNIX INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D548 ",
+    "linea": "CANELA ÓNIX NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D549 ",
+    "linea": "CANELA ÓNIX MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D550 ",
+    "linea": "CANELA ÓNIX MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D551 ",
+    "linea": "ÁGATA ÓNIX INTENSO ROJO"
+  },
+  {
+    "codigo": "D552 ",
+    "linea": "ÁGATA ÓNIX NEVADO ROJO"
+  },
+  {
+    "codigo": "D553 ",
+    "linea": "ÁGATA ÓNIX MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D554 ",
+    "linea": "ÁGATA ÓNIX MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D555 ",
+    "linea": "ÁGATA ÓNIX INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D556 ",
+    "linea": "ÁGATA ÓNIX NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D557 ",
+    "linea": "ÁGATA ÓNIX MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D558 ",
+    "linea": "ÁGATA ÓNIX MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D559 ",
+    "linea": "ISABEL ÓNIX INTENSO ROJO"
+  },
+  {
+    "codigo": "D560 ",
+    "linea": "ISABEL ÓNIX NEVADO ROJO"
+  },
+  {
+    "codigo": "D561 ",
+    "linea": "ISABEL ÓNIX MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D562 ",
+    "linea": "ISABEL ÓNIX MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D563 ",
+    "linea": "ISABEL ÓNIX INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D564 ",
+    "linea": "ISABEL ÓNIX NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D565 ",
+    "linea": "ISABEL ÓNIX MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D566 ",
+    "linea": "ISABEL ÓNIX MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D567 ",
+    "linea": "NEGRO COBALTO BLANCO"
+  },
+  {
+    "codigo": "D568 ",
+    "linea": "NEGRO COBALTO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D569 ",
+    "linea": "NEGRO COBALTO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D570 ",
+    "linea": "NEGRO COBALTO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D571 ",
+    "linea": "NEGRO COBALTO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D572 ",
+    "linea": "NEGRO COBALTO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D573 ",
+    "linea": "NEGRO COBALTO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D574 ",
+    "linea": "NEGRO COBALTO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D575 ",
+    "linea": "NEGRO COBALTO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D576 ",
+    "linea": "NEGRO COBALTO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D577 ",
+    "linea": "CANELA COBALTO BLANCO"
+  },
+  {
+    "codigo": "D578 ",
+    "linea": "CANELA COBALTO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D579 ",
+    "linea": "CANELA COBALTO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D580 ",
+    "linea": "CANELA COBALTO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D581 ",
+    "linea": "CANELA COBALTO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D582 ",
+    "linea": "CANELA COBALTO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D583 ",
+    "linea": "CANELA COBALTO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D584 ",
+    "linea": "CANELA COBALTO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D585 ",
+    "linea": "CANELA COBALTO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D586 ",
+    "linea": "CANELA COBALTO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D587 ",
+    "linea": "ÁGATA COBALTO BLANCO"
+  },
+  {
+    "codigo": "D588 ",
+    "linea": "ÁGATA COBALTO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D589 ",
+    "linea": "ÁGATA COBALTO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D590 ",
+    "linea": "ÁGATA COBALTO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D591 ",
+    "linea": "ÁGATA COBALTO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D592 ",
+    "linea": "ÁGATA COBALTO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D593 ",
+    "linea": "ÁGATA COBALTO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D594 ",
+    "linea": "ÁGATA COBALTO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D595 ",
+    "linea": "ÁGATA COBALTO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D596 ",
+    "linea": "ÁGATA COBALTO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D597 ",
+    "linea": "ISABEL COBALTO BLANCO"
+  },
+  {
+    "codigo": "D598 ",
+    "linea": "ISABEL COBALTO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D599 ",
+    "linea": "ISABEL COBALTO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D600 ",
+    "linea": "ISABEL COBALTO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D601 ",
+    "linea": "ISABEL COBALTO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D602 ",
+    "linea": "ISABEL COBALTO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D603 ",
+    "linea": "ISABEL COBALTO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D604 ",
+    "linea": "ISABEL COBALTO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D605 ",
+    "linea": "ISABEL COBALTO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D606 ",
+    "linea": "ISABEL COBALTO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D607 ",
+    "linea": "NEGRO COBALTO INTENSO ROJO"
+  },
+  {
+    "codigo": "D608 ",
+    "linea": "NEGRO COBALTO NEVADO ROJO"
+  },
+  {
+    "codigo": "D609 ",
+    "linea": "NEGRO COBALTO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D610 ",
+    "linea": "NEGRO COBALTO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D611 ",
+    "linea": "NEGRO COBALTO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D612 ",
+    "linea": "NEGRO COBALTO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D613 ",
+    "linea": "NEGRO COBALTO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D614 ",
+    "linea": "NEGRO COBALTO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D615 ",
+    "linea": "CANELA COBALTO INTENSO ROJO"
+  },
+  {
+    "codigo": "D616 ",
+    "linea": "CANELA COBALTO NEVADO ROJO"
+  },
+  {
+    "codigo": "D617 ",
+    "linea": "CANELA COBALTO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D618 ",
+    "linea": "CANELA COBALTO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D619 ",
+    "linea": "CANELA COBALTO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D620 ",
+    "linea": "CANELA COBALTO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D621 ",
+    "linea": "CANELA COBALTO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D622 ",
+    "linea": "CANELA COBALTO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D623 ",
+    "linea": "ÁGATA COBALTO INTENSO ROJO"
+  },
+  {
+    "codigo": "D624 ",
+    "linea": "ÁGATA COBALTO NEVADO ROJO"
+  },
+  {
+    "codigo": "D625 ",
+    "linea": "ÁGATA COBALTO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D626 ",
+    "linea": "ÁGATA COBALTO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D627 ",
+    "linea": "ÁGATA COBALTO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D628 ",
+    "linea": "ÁGATA COBALTO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D629 ",
+    "linea": "ÁGATA COBALTO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D630 ",
+    "linea": "ÁGATA COBALTO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D631 ",
+    "linea": "ISABEL COBALTO INTENSO ROJO"
+  },
+  {
+    "codigo": "D632 ",
+    "linea": "ISABEL COBALTO NEVADO ROJO"
+  },
+  {
+    "codigo": "D633 ",
+    "linea": "ISABEL COBALTO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D634 ",
+    "linea": "ISABEL COBALTO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D635 ",
+    "linea": "ISABEL COBALTO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D636 ",
+    "linea": "ISABEL COBALTO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D637 ",
+    "linea": "ISABEL COBALTO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D638 ",
+    "linea": "ISABEL COBALTO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D639 ",
+    "linea": "NEGRO JASPE SD BLANCO"
+  },
+  {
+    "codigo": "D640 ",
+    "linea": "NEGRO JASPE SD BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D641 ",
+    "linea": "NEGRO JASPE SD INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D642 ",
+    "linea": "NEGRO JASPE SD NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D643 ",
+    "linea": "NEGRO JASPE SD MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D644 ",
+    "linea": "NEGRO JASPE SD MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D645 ",
+    "linea": "NEGRO JASPE SD INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D646 ",
+    "linea": "NEGRO JASPE SD NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D647 ",
+    "linea": "NEGRO JASPE SD MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D648 ",
+    "linea": "NEGRO JASPE SD MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D649 ",
+    "linea": "CANELA JASPE SD BLANCO"
+  },
+  {
+    "codigo": "D650 ",
+    "linea": "CANELA JASPE SD BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D651 ",
+    "linea": "CANELA JASPE SD INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D652 ",
+    "linea": "CANELA JASPE SD NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D653 ",
+    "linea": "CANELA JASPE SD MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D654 ",
+    "linea": "CANELA JASPE SD MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D655 ",
+    "linea": "CANELA JASPE SD INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D656 ",
+    "linea": "CANELA JASPE SD NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D657 ",
+    "linea": "CANELA JASPE SD MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D658 ",
+    "linea": "CANELA JASPE SD MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D659 ",
+    "linea": "ÁGATA JASPE SD BLANCO"
+  },
+  {
+    "codigo": "D660 ",
+    "linea": "ÁGATA JASPE SD BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D661 ",
+    "linea": "ÁGATA JASPE SD INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D662 ",
+    "linea": "ÁGATA JASPE SD NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D663 ",
+    "linea": "ÁGATA JASPE SD MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D664 ",
+    "linea": "ÁGATA JASPE SD MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D665 ",
+    "linea": "ÁGATA JASPE SD INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D666 ",
+    "linea": "ÁGATA JASPE SD NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D667 ",
+    "linea": "ÁGATA JASPE SD MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D668 ",
+    "linea": "ÁGATA JASPE SD MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D669 ",
+    "linea": "ISABEL JASPE SD BLANCO"
+  },
+  {
+    "codigo": "D670 ",
+    "linea": "ISABEL JASPE SD BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D671 ",
+    "linea": "ISABEL JASPE SD INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D672 ",
+    "linea": "ISABEL JASPE SD NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D673 ",
+    "linea": "ISABEL JASPE SD MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D674 ",
+    "linea": "ISABEL JASPE SD MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D675 ",
+    "linea": "ISABEL JASPE SD INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D676 ",
+    "linea": "ISABEL JASPE SD NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D677 ",
+    "linea": "ISABEL JASPE SD MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D678 ",
+    "linea": "ISABEL JASPE SD MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D679 ",
+    "linea": "NEGRO JASPE SD INTENSO ROJO"
+  },
+  {
+    "codigo": "D680 ",
+    "linea": "NEGRO JASPE SD NEVADO ROJO"
+  },
+  {
+    "codigo": "D681 ",
+    "linea": "NEGRO JASPE SD MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D682 ",
+    "linea": "NEGRO JASPE SD MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D683 ",
+    "linea": "NEGRO JASPE SD INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D684 ",
+    "linea": "NEGRO JASPE SD NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D685 ",
+    "linea": "NEGRO JASPE SD MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D686 ",
+    "linea": "NEGRO JASPE SD MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D687 ",
+    "linea": "CANELA JASPE SD INTENSO ROJO"
+  },
+  {
+    "codigo": "D688 ",
+    "linea": "CANELA JASPE SD NEVADO ROJO"
+  },
+  {
+    "codigo": "D689 ",
+    "linea": "CANELA JASPE SD MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D690 ",
+    "linea": "CANELA JASPE SD MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D691 ",
+    "linea": "CANELA JASPE SD INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D692 ",
+    "linea": "CANELA JASPE SD NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D693 ",
+    "linea": "CANELA JASPE SD MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D694 ",
+    "linea": "CANELA JASPE SD MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D695 ",
+    "linea": "ÁGATA JASPE SD INTENSO ROJO"
+  },
+  {
+    "codigo": "D696 ",
+    "linea": "ÁGATA JASPE SD NEVADO ROJO"
+  },
+  {
+    "codigo": "D697 ",
+    "linea": "ÁGATA JASPE SD MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D698 ",
+    "linea": "ÁGATA JASPE SD MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D699 ",
+    "linea": "ÁGATA JASPE SD INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D700 ",
+    "linea": "ÁGATA JASPE SD NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D701 ",
+    "linea": "ÁGATA JASPE SD MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D702 ",
+    "linea": "ÁGATA JASPE SD MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D703 ",
+    "linea": "ISABEL JASPE SD INTENSO ROJO"
+  },
+  {
+    "codigo": "D704 ",
+    "linea": "ISABEL JASPE SD NEVADO ROJO"
+  },
+  {
+    "codigo": "D705 ",
+    "linea": "ISABEL JASPE SD MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D706 ",
+    "linea": "ISABEL JASPE SD MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D707 ",
+    "linea": "ISABEL JASPE SD INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D708 ",
+    "linea": "ISABEL JASPE SD NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D709 ",
+    "linea": "ISABEL JASPE SD MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D710 ",
+    "linea": "ISABEL JASPE SD MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D711 ",
+    "linea": "NEGRO MOGNO BLANCO"
+  },
+  {
+    "codigo": "D712 ",
+    "linea": "NEGRO MOGNO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D713 ",
+    "linea": "NEGRO MOGNO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D714 ",
+    "linea": "NEGRO MOGNO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D715 ",
+    "linea": "NEGRO MOGNO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D716 ",
+    "linea": "NEGRO MOGNO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D717 ",
+    "linea": "NEGRO MOGNO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D718 ",
+    "linea": "NEGRO MOGNO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D719 ",
+    "linea": "NEGRO MOGNO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D720 ",
+    "linea": "NEGRO MOGNO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D721 ",
+    "linea": "CANELA MOGNO BLANCO"
+  },
+  {
+    "codigo": "D722 ",
+    "linea": "CANELA MOGNO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D723 ",
+    "linea": "CANELA MOGNO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D724 ",
+    "linea": "CANELA MOGNO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D725 ",
+    "linea": "CANELA MOGNO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D726 ",
+    "linea": "CANELA MOGNO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D727 ",
+    "linea": "CANELA MOGNO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D728 ",
+    "linea": "CANELA MOGNO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D729 ",
+    "linea": "CANELA MOGNO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D730 ",
+    "linea": "CANELA MOGNO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D731 ",
+    "linea": "ÁGATA MOGNO BLANCO"
+  },
+  {
+    "codigo": "D732 ",
+    "linea": "ÁGATA MOGNO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D733 ",
+    "linea": "ÁGATA MOGNO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D734 ",
+    "linea": "ÁGATA MOGNO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D735 ",
+    "linea": "ÁGATA MOGNO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D736 ",
+    "linea": "ÁGATA MOGNO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D737 ",
+    "linea": "ÁGATA MOGNO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D738 ",
+    "linea": "ÁGATA MOGNO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D739 ",
+    "linea": "ÁGATA MOGNO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D740 ",
+    "linea": "ÁGATA MOGNO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D741 ",
+    "linea": "ISABEL MOGNO BLANCO"
+  },
+  {
+    "codigo": "D742 ",
+    "linea": "ISABEL MOGNO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D743 ",
+    "linea": "ISABEL MOGNO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D744 ",
+    "linea": "ISABEL MOGNO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D745 ",
+    "linea": "ISABEL MOGNO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D746 ",
+    "linea": "ISABEL MOGNO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D747 ",
+    "linea": "ISABEL MOGNO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D748 ",
+    "linea": "ISABEL MOGNO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D749 ",
+    "linea": "ISABEL MOGNO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D750 ",
+    "linea": "ISABEL MOGNO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D751 ",
+    "linea": "NEGRO MOGNO INTENSO ROJO"
+  },
+  {
+    "codigo": "D752 ",
+    "linea": "NEGRO MOGNO NEVADO ROJO"
+  },
+  {
+    "codigo": "D753 ",
+    "linea": "NEGRO MOGNO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D754 ",
+    "linea": "NEGRO MOGNO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D755 ",
+    "linea": "NEGRO MOGNO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D756 ",
+    "linea": "NEGRO MOGNO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D757 ",
+    "linea": "NEGRO MOGNO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D758 ",
+    "linea": "NEGRO MOGNO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D759 ",
+    "linea": "CANELA MOGNO INTENSO ROJO"
+  },
+  {
+    "codigo": "D760 ",
+    "linea": "CANELA MOGNO NEVADO ROJO"
+  },
+  {
+    "codigo": "D761 ",
+    "linea": "CANELA MOGNO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D762 ",
+    "linea": "CANELA MOGNO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D763 ",
+    "linea": "CANELA MOGNO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D764 ",
+    "linea": "CANELA MOGNO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D765 ",
+    "linea": "CANELA MOGNO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D766 ",
+    "linea": "CANELA MOGNO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D767 ",
+    "linea": "ÁGATA MOGNO INTENSO ROJO"
+  },
+  {
+    "codigo": "D768 ",
+    "linea": "ÁGATA MOGNO NEVADO ROJO"
+  },
+  {
+    "codigo": "D769 ",
+    "linea": "ÁGATA MOGNO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D770 ",
+    "linea": "ÁGATA MOGNO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D771 ",
+    "linea": "ÁGATA MOGNO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D772 ",
+    "linea": "ÁGATA MOGNO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D773 ",
+    "linea": "ÁGATA MOGNO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D774 ",
+    "linea": "ÁGATA MOGNO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D775 ",
+    "linea": "ISABEL MOGNO INTENSO ROJO"
+  },
+  {
+    "codigo": "D776 ",
+    "linea": "ISABEL MOGNO NEVADO ROJO"
+  },
+  {
+    "codigo": "D777 ",
+    "linea": "ISABEL MOGNO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D778 ",
+    "linea": "ISABEL MOGNO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D779 ",
+    "linea": "ISABEL MOGNO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D780 ",
+    "linea": "ISABEL MOGNO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D781 ",
+    "linea": "ISABEL MOGNO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D782 ",
+    "linea": "ISABEL MOGNO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D783 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO BLANCO"
+  },
+  {
+    "codigo": "D784 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO BLANCO DOMINANTE"
+  },
+  {
+    "codigo": "D785 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO INTENSO AMARILLO"
+  },
+  {
+    "codigo": "D786 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO NEVADO AMARILLO"
+  },
+  {
+    "codigo": "D787 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO MOSAICO AMARILLO MACHO"
+  },
+  {
+    "codigo": "D788 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO MOSAICO AMARILLO HEMBRA"
+  },
+  {
+    "codigo": "D789 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO INTENSO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D790 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO NEVADO AMARILLO MARFIL"
+  },
+  {
+    "codigo": "D791 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO MOSAICO AMARILLO MARFIL MACHO"
+  },
+  {
+    "codigo": "D792 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO MOSAICO AMARILLO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D793 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO INTENSO ROJO"
+  },
+  {
+    "codigo": "D794 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO NEVADO ROJO"
+  },
+  {
+    "codigo": "D795 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO MOSAICO ROJO MACHO"
+  },
+  {
+    "codigo": "D796 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO MOSAICO ROJO HEMBRA"
+  },
+  {
+    "codigo": "D797 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO INTENSO ROJO MARFIL"
+  },
+  {
+    "codigo": "D798 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO NEVADO ROJO MARFIL"
+  },
+  {
+    "codigo": "D799 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO MOSAICO ROJO MARFIL MACHO"
+  },
+  {
+    "codigo": "D800 ",
+    "linea": "MUTACIONES EN ESTUDIO FONDO MOSAICO ROJO MARFIL HEMBRA"
+  },
+  {
+    "codigo": "D801 ",
+    "linea": "PICOS AMARILLOS BLANCOS DOMINANTE"
+  },
+  {
+    "codigo": "D802 ",
+    "linea": "PICOS AMARILLOS MARFILES"
+  },
+  {
+    "codigo": "D803 ",
+    "linea": "PICOS AMARILLOS MOSAICOS Y MOSAICOS MARFILES"
+  },
+  {
+    "codigo": "D804 ",
+    "linea": "BLANCO DOMINANTE FONDO ROJO LIPOCRÓMICOS"
+  },
+  {
+    "codigo": "D805 ",
+    "linea": "BLANCO DOMINANTE FONDO ROJO MELÁNICOS"
+  }
+]

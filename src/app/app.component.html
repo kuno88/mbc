@@ -1,0 +1,95 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"id="navbar">
+    <div class="container-fluid">
+        <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="offcanvas"
+        data-bs-target="#offcanvasNavbarExample-expand-lg"
+        aria-controls="offcanvasNavbarExample-expand-lg"
+      >
+        <span
+          class="navbar-toggler-icon"
+          data-bs-target="#offcanvasNavbarExample-expand-lg"
+        ></span>
+      </button>
+      <a class="navbar-brand" href="#">
+        <img src="../assets/img/gorrioniconoblanco.png" alt="" width="30" height="30">
+        <a class="navbar-brand  me-2" routerLink="/home">Mis Canarios</a>
+      </a>
+      
+      <div
+        class="offcanvas offcanvas-start bg-primary"
+        data-bs-hideresize="true"
+        tabindex="-1"
+        id="offcanvasNavbarExample-expand-lg"
+        aria-labelledby="offcanvasNavbarExample-expand-lg"
+      >
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasLabel" style="color: white">
+            Mis Canarios
+          </h5>
+          <button
+            type="button"
+            class="btn-close btn-close-white text-reset"
+            data-bs-dismiss="offcanvas"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="offcanvas-body bg-primary">
+          <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="#">Inicio</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="#">Canarios</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="#">Parejas</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Estadisticas</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="#">Nomenclador</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <ng-template #ingresoBotones>
+        <div class="navbar-nav ml-auto">
+          <button type="button" class="btn btn-outline-light btn-sm rou" routerLink="/auth/signIn">Ingresar</button> 
+          <button type="button" class="btn btn-outline-light btn-sm ms-1" routerLink="/auth/signUp">Registrarce</button> 
+        </div> 
+      </ng-template>
+      
+       <div class="navbar-nav ml-auto" *ngIf="afAuth.user | async as user; else ingresoBotones">
+        <img
+          class="img-profile rounded-circle"
+          height="36"
+          src="../assets/undraw_profile.svg"
+        />
+        <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a
+                href="#"
+                class="nav-link dropdown-toggle"
+                id="navbarDropdown"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+                >{{name}} <b class="caret"></b></a>
+  
+              <div class="dropdown-menu dropdown-menu-end position-absolute"aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" routerLink="profile/display">Perfil</a>
+                <a class="dropdown-item" href="#">Configuraciones</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#" (click)="salir()">Salir</a>
+              </div>
+            </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+<div class="container">
+    <router-outlet></router-outlet>
+</div>
+

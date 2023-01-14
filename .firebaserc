@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mc-bootstrap": {
+      "hosting": {
+        "client": [
+          "mc-bootstrap"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mc-bootstrap"
+  }
+}

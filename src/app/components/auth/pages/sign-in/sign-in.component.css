@@ -1,0 +1,25 @@
+.logo{
+    height: 130px;
+    margin-bottom: 10px;
+}
+.card{
+    max-width: 70%;
+    margin: auto;
+}
+
+.btn-social{
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #fff;
+    border-color: rgba(0, 0, 0, 0.2);
+    width: 200px;
+}
+.btn-facebook{
+    background: #3b5998;
+}
+.btn-google{
+    background: #dd4b39;
+}

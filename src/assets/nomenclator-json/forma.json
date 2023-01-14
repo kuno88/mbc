@@ -1,0 +1,2554 @@
+[
+  {
+    "codigo": "CP0001",
+    "linea": "RIZ PAR FDO BL LIP"
+  },
+  {
+    "codigo": "CP0002",
+    "linea": "RIZ PAR FDO BL MEL"
+  },
+  {
+    "codigo": "CP0003",
+    "linea": "RIZ PAR FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0004",
+    "linea": "RIZ PAR FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0005",
+    "linea": "RIZ PAR FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0006",
+    "linea": "RIZ PAR FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0007",
+    "linea": "RIZ PAR FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0008",
+    "linea": "RIZ PAR FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0009",
+    "linea": "RIZ PAR FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0010",
+    "linea": "RIZ PAR FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0011",
+    "linea": "RIZ PAR FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0012",
+    "linea": "RIZ PAR FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0013",
+    "linea": "RIZ PAR FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0014",
+    "linea": "RIZ PAR FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0015",
+    "linea": "RIZ PAR FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0016",
+    "linea": "RIZ PAR FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0017",
+    "linea": "RIZ PAR FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0018",
+    "linea": "RIZ PAR FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0019",
+    "linea": "RIZ PAR FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0020",
+    "linea": "RIZ PAR FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0101",
+    "linea": "AGI FDO BL LIP"
+  },
+  {
+    "codigo": "CP0102",
+    "linea": "AGI FDO BL MEL"
+  },
+  {
+    "codigo": "CP0103",
+    "linea": "AGI FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0104",
+    "linea": "AGI FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0105",
+    "linea": "AGI FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0106",
+    "linea": "AGI FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0107",
+    "linea": "AGI FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0108",
+    "linea": "AGI FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0109",
+    "linea": "AGI FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0110",
+    "linea": "AGI FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0111",
+    "linea": "AGI FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0112",
+    "linea": "AGI FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0113",
+    "linea": "AGI FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0114",
+    "linea": "AGI FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0115",
+    "linea": "AGI FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0116",
+    "linea": "AGI FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0117",
+    "linea": "AGI FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0118",
+    "linea": "AGI FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0119",
+    "linea": "AGI FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0120",
+    "linea": "AGI FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0201",
+    "linea": "PAD SIN COPETE FDO BL LIP"
+  },
+  {
+    "codigo": "CP0202",
+    "linea": "PAD SIN COPETE FDO BL MEL"
+  },
+  {
+    "codigo": "CP0203",
+    "linea": "PAD SIN COPETE FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0204",
+    "linea": "PAD SIN COPETE FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0205",
+    "linea": "PAD SIN COPETE FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0206",
+    "linea": "PAD SIN COPETE FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0207",
+    "linea": "PAD SIN COPETE FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0208",
+    "linea": "PAD SIN COPETE FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0209",
+    "linea": "PAD SIN COPETE FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0210",
+    "linea": "PAD SIN COPETE FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0211",
+    "linea": "PAD SIN COPETE FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0212",
+    "linea": "PAD SIN COPETE FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0213",
+    "linea": "PAD SIN COPETE FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0214",
+    "linea": "PAD SIN COPETE FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0215",
+    "linea": "PAD SIN COPETE FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0216",
+    "linea": "PAD SIN COPETE FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0217",
+    "linea": "PAD SIN COPETE FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0218",
+    "linea": "PAD SIN COPETE FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0219",
+    "linea": "PAD SIN COPETE FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0220",
+    "linea": "PAD SIN COPETE FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0221",
+    "linea": "PAD CON COPETE FDO BL LIP"
+  },
+  {
+    "codigo": "CP0222",
+    "linea": "PAD CON COPETE FDO BL MEL"
+  },
+  {
+    "codigo": "CP0223",
+    "linea": "PAD CON COPETE FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0224",
+    "linea": "PAD CON COPETE FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0225",
+    "linea": "PAD CON COPETE FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0226",
+    "linea": "PAD CON COPETE FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0227",
+    "linea": "PAD CON COPETE FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0228",
+    "linea": "PAD CON COPETE FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0229",
+    "linea": "PAD CON COPETE FDO AM NE LIP"
+  },
+  {
+    "codigo": "CP0230",
+    "linea": "PAD CON COPETE FDO AM NE MEL"
+  },
+  {
+    "codigo": "CP0231",
+    "linea": "PAD CON COPETE FDO AM NE OVE LIP"
+  },
+  {
+    "codigo": "CP0232",
+    "linea": "PAD CON COPETE FDO AM NE OVE MEL"
+  },
+  {
+    "codigo": "CP0233",
+    "linea": "PAD CON COPETE FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0234",
+    "linea": "PAD CON COPETE FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0235",
+    "linea": "PAD CON COPETE FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0236",
+    "linea": "PAD CON COPETE FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0237",
+    "linea": "PAD CON COPETE FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0238",
+    "linea": "PAD CON COPETE FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0239",
+    "linea": "PAD CON COPETE FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0240",
+    "linea": "PAD CON COPETE FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0301",
+    "linea": "MEL TENER FDO BL LIP"
+  },
+  {
+    "codigo": "CP0302",
+    "linea": "MEL TENER FDO BL MEL"
+  },
+  {
+    "codigo": "CP0303",
+    "linea": "MEL TENER FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0304",
+    "linea": "MEL TENER FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0305",
+    "linea": "MEL TENER FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0306",
+    "linea": "MEL TENER FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0307",
+    "linea": "MEL TENER FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0308",
+    "linea": "MEL TENER FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0309",
+    "linea": "MEL TENER FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0310",
+    "linea": "MEL TENER FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0311",
+    "linea": "MEL TENER FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0312",
+    "linea": "MEL TENER FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0401",
+    "linea": "RIZ DEL NORTE FDO BL LIP"
+  },
+  {
+    "codigo": "CP0402",
+    "linea": "RIZ DEL NORTE FDO BL MEL"
+  },
+  {
+    "codigo": "CP0403",
+    "linea": "RIZ DEL NORTE FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0404",
+    "linea": "RIZ DEL NORTE FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0405",
+    "linea": "RIZ DEL NORTE FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0406",
+    "linea": "RIZ DEL NORTE FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0407",
+    "linea": "RIZ DEL NORTE FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0408",
+    "linea": "RIZ DEL NORTE FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0409",
+    "linea": "RIZ DEL NORTE FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0410",
+    "linea": "RIZ DEL NORTE FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0411",
+    "linea": "RIZ DEL NORTE FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0412",
+    "linea": "RIZ DEL NORTE FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0413",
+    "linea": "RIZ DEL NORTE FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0414",
+    "linea": "RIZ DEL NORTE FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0415",
+    "linea": "RIZ DEL NORTE FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0416",
+    "linea": "RIZ DEL NORTE FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0417",
+    "linea": "RIZ DEL NORTE FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0418",
+    "linea": "RIZ DEL NORTE FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0419",
+    "linea": "RIZ DEL NORTE FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0420",
+    "linea": "RIZ DEL NORTE FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0501",
+    "linea": "RIZ DEL SUR FDO BL LIP"
+  },
+  {
+    "codigo": "CP0502",
+    "linea": "RIZ DEL SUR FDO BL MEL"
+  },
+  {
+    "codigo": "CP0503",
+    "linea": "RIZ DEL SUR FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0504",
+    "linea": "RIZ DEL SUR FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0505",
+    "linea": "RIZ DEL SUR FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0506",
+    "linea": "RIZ DEL SUR FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0507",
+    "linea": "RIZ DEL SUR FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0508",
+    "linea": "RIZ DEL SUR FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0509",
+    "linea": "RIZ DEL SUR FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0510",
+    "linea": "RIZ DEL SUR FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0511",
+    "linea": "RIZ DEL SUR FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0512",
+    "linea": "RIZ DEL SUR FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0513",
+    "linea": "RIZ DEL SUR FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0514",
+    "linea": "RIZ DEL SUR FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0515",
+    "linea": "RIZ DEL SUR FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0516",
+    "linea": "RIZ DEL SUR FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0517",
+    "linea": "RIZ DEL SUR FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0518",
+    "linea": "RIZ DEL SUR FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0519",
+    "linea": "RIZ DEL SUR FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0520",
+    "linea": "RIZ DEL SUR FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0601",
+    "linea": "RIZ SUI FDO BL LIP"
+  },
+  {
+    "codigo": "CP0602",
+    "linea": "RIZ SUI FDO BL MEL"
+  },
+  {
+    "codigo": "CP0603",
+    "linea": "RIZ SUI FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0604",
+    "linea": "RIZ SUI FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0605",
+    "linea": "RIZ SUI FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0606",
+    "linea": "RIZ SUI FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0607",
+    "linea": "RIZ SUI FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0608",
+    "linea": "RIZ SUI FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0609",
+    "linea": "RIZ SUI FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0610",
+    "linea": "RIZ SUI FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0611",
+    "linea": "RIZ SUI FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0612",
+    "linea": "RIZ SUI FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0701",
+    "linea": "GIB ITAL FDO BL LIP"
+  },
+  {
+    "codigo": "CP0702",
+    "linea": "GIB ITAL FDO BL MEL"
+  },
+  {
+    "codigo": "CP0703",
+    "linea": "GIB ITAL FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0704",
+    "linea": "GIB ITAL FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0705",
+    "linea": "GIB ITAL FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0706",
+    "linea": "GIB ITAL FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0707",
+    "linea": "GIB ITAL FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0708",
+    "linea": "GIB ITAL FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0709",
+    "linea": "GIB ITAL FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0710",
+    "linea": "GIB ITAL FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0711",
+    "linea": "GIB ITAL FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0712",
+    "linea": "GIB ITAL FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0801",
+    "linea": "GIBO ESP FDO BL LIP"
+  },
+  {
+    "codigo": "CP0802",
+    "linea": "GIBO ESP FDO BL MEL"
+  },
+  {
+    "codigo": "CP0803",
+    "linea": "GIBO ESP FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0804",
+    "linea": "GIBO ESP FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0805",
+    "linea": "GIBO ESP FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0806",
+    "linea": "GIBO ESP FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0807",
+    "linea": "GIBO ESP FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0808",
+    "linea": "GIBO ESP FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0809",
+    "linea": "GIBO ESP FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0810",
+    "linea": "GIBO ESP FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0811",
+    "linea": "GIBO ESP FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0812",
+    "linea": "GIBO ESP FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0901",
+    "linea": "FIO SIN COPETE FDO BL LIP"
+  },
+  {
+    "codigo": "CP0902",
+    "linea": "FIO SIN COPETE FDO BL MEL"
+  },
+  {
+    "codigo": "CP0903",
+    "linea": "FIO SIN COPETE FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0904",
+    "linea": "FIO SIN COPETE FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0905",
+    "linea": "FIO SIN COPETE FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0906",
+    "linea": "FIO SIN COPETE FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0907",
+    "linea": "FIO SIN COPETE FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0908",
+    "linea": "FIO SIN COPETE FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0909",
+    "linea": "FIO SIN COPETE FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0910",
+    "linea": "FIO SIN COPETE FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0911",
+    "linea": "FIO SIN COPETE FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0912",
+    "linea": "FIO SIN COPETE FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0913",
+    "linea": "FIO SIN COPETE FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0914",
+    "linea": "FIO SIN COPETE FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0915",
+    "linea": "FIO SIN COPETE FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0916",
+    "linea": "FIO SIN COPETE FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0917",
+    "linea": "FIO SIN COPETE FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0918",
+    "linea": "FIO SIN COPETE FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0919",
+    "linea": "FIO SIN COPETE FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0920",
+    "linea": "FIO SIN COPETE FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0921",
+    "linea": "FIO CON COPETE FDO BL LIP"
+  },
+  {
+    "codigo": "CP0922",
+    "linea": "FIO CON COPETE FDO BL MEL"
+  },
+  {
+    "codigo": "CP0923",
+    "linea": "FIO CON COPETE FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP0924",
+    "linea": "FIO CON COPETE FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP0925",
+    "linea": "FIO CON COPETE FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP0926",
+    "linea": "FIO CON COPETE FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP0927",
+    "linea": "FIO CON COPETE FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP0928",
+    "linea": "FIO CON COPETE FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP0929",
+    "linea": "FIO CON COPETE FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP0930",
+    "linea": "FIO CON COPETE FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP0931",
+    "linea": "FIO CON COPETE FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0932",
+    "linea": "FIO CON COPETE FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP0933",
+    "linea": "FIO CON COPETE FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP0934",
+    "linea": "FIO CON COPETE FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP0935",
+    "linea": "FIO CON COPETE FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP0936",
+    "linea": "FIO CON COPETE FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP0937",
+    "linea": "FIO CON COPETE FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP0938",
+    "linea": "FIO CON COPETE FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP0939",
+    "linea": "FIO CON COPETE FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP0940",
+    "linea": "FIO CON COPETE FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP1001",
+    "linea": "MEHRIN FDO BL LIP"
+  },
+  {
+    "codigo": "CP1002",
+    "linea": "MEHRIN FDO BL MEL"
+  },
+  {
+    "codigo": "CP1003",
+    "linea": "MEHRIN FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP1004",
+    "linea": "MEHRIN FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP1005",
+    "linea": "MEHRIN FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP1006",
+    "linea": "MEHRIN FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP1007",
+    "linea": "MEHRIN FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP1008",
+    "linea": "MEHRIN FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP1009",
+    "linea": "MEHRIN FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP1010",
+    "linea": "MEHRIN FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP1011",
+    "linea": "MEHRIN FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP1012",
+    "linea": "MEHRIN FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP1013",
+    "linea": "MEHRIN FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP1014",
+    "linea": "MEHRIN FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP1015",
+    "linea": "MEHRIN FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP1016",
+    "linea": "MEHRIN FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP1017",
+    "linea": "MEHRIN FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP1018",
+    "linea": "MEHRIN FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP1019",
+    "linea": "MEHRIN FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP1020",
+    "linea": "MEHRIN FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP1101",
+    "linea": "GIRAL SEV FDO BL LIP"
+  },
+  {
+    "codigo": "CP1102",
+    "linea": "GIRAL SEV FDO BL MEL"
+  },
+  {
+    "codigo": "CP1103",
+    "linea": "GIRAL SEV FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP1104",
+    "linea": "GIRAL SEV FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP1105",
+    "linea": "GIRAL SEV FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP1106",
+    "linea": "GIRAL SEV FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP1107",
+    "linea": "GIRAL SEV FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP1108",
+    "linea": "GIRAL SEV FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP1109",
+    "linea": "GIRAL SEV FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP1110",
+    "linea": "GIRAL SEV FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP1111",
+    "linea": "GIRAL SEV FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP1112",
+    "linea": "GIRAL SEV FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP1113",
+    "linea": "GIRAL SEV FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP1114",
+    "linea": "GIRAL SEV FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP1115",
+    "linea": "GIRAL SEV FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP1116",
+    "linea": "GIRAL SEV FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP1117",
+    "linea": "GIRAL SEV FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP1118",
+    "linea": "GIRAL SEV FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP1119",
+    "linea": "GIRAL SEV FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP1120",
+    "linea": "GIRAL SEV FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP2001",
+    "linea": "BOS BEL FDO BL LIP"
+  },
+  {
+    "codigo": "CP2002",
+    "linea": "BOS BEL FDO BL MEL"
+  },
+  {
+    "codigo": "CP2003",
+    "linea": "BOS BEL FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP2004",
+    "linea": "BOS BEL FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP2005",
+    "linea": "BOS BEL FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP2006",
+    "linea": "BOS BEL FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP2007",
+    "linea": "BOS BEL FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP2008",
+    "linea": "BOS BEL FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP2009",
+    "linea": "BOS BEL FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP2010",
+    "linea": "BOS BEL FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP2011",
+    "linea": "BOS BEL FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP2012",
+    "linea": "BOS BEL FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP2101",
+    "linea": "SCOT FAN FDO BL LIP"
+  },
+  {
+    "codigo": "CP2102",
+    "linea": "SCOT FAN FDO BL MEL"
+  },
+  {
+    "codigo": "CP2103",
+    "linea": "SCOT FAN FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP2104",
+    "linea": "SCOT FAN FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP2105",
+    "linea": "SCOT FAN FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP2106",
+    "linea": "SCOT FAN FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP2107",
+    "linea": "SCOT FAN FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP2108",
+    "linea": "SCOT FAN FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP2109",
+    "linea": "SCOT FAN FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP2110",
+    "linea": "SCOT FAN FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP2111",
+    "linea": "SCOT FAN FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP2112",
+    "linea": "SCOT FAN FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP2201",
+    "linea": "MÜNCHE FDO BL LIP"
+  },
+  {
+    "codigo": "CP2202",
+    "linea": "MÜNCHE FDO BL MEL"
+  },
+  {
+    "codigo": "CP2203",
+    "linea": "MÜNCHE FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP2204",
+    "linea": "MÜNCHE FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP2205",
+    "linea": "MÜNCHE FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP2206",
+    "linea": "MÜNCHE FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP2207",
+    "linea": "MÜNCHE FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP2208",
+    "linea": "MÜNCHE FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP2209",
+    "linea": "MÜNCHE FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP2210",
+    "linea": "MÜNCHE FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP2211",
+    "linea": "MÜNCHE FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP2212",
+    "linea": "MÜNCHE FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP2301",
+    "linea": "HOS JAP FDO BL LIP"
+  },
+  {
+    "codigo": "CP2302",
+    "linea": "HOS JAP FDO BL MEL"
+  },
+  {
+    "codigo": "CP2303",
+    "linea": "HOS JAP FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP2304",
+    "linea": "HOS JAP FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP2305",
+    "linea": "HOS JAP FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP2306",
+    "linea": "HOS JAP FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP2307",
+    "linea": "HOS JAP FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP2308",
+    "linea": "HOS JAP FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP2309",
+    "linea": "HOS JAP FDO AN NEV LIP"
+  },
+  {
+    "codigo": "CP2310",
+    "linea": "HOS JAP FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP2311",
+    "linea": "HOS JAP FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP2312",
+    "linea": "HOS JAP FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP2313",
+    "linea": "HOS JAP FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP2314",
+    "linea": "HOS JAP FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP2315",
+    "linea": "HOS JAP FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP2316",
+    "linea": "HOS JAP FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP2317",
+    "linea": "HOS JAP FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP2318",
+    "linea": "HOS JAP FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP2319",
+    "linea": "HOS JAP FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP2320",
+    "linea": "HOS JAP FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3001",
+    "linea": "BOR FDO BL LIP"
+  },
+  {
+    "codigo": "CP3002",
+    "linea": "BOR FDO BL MEL"
+  },
+  {
+    "codigo": "CP3003",
+    "linea": "BOR FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP3004",
+    "linea": "BOR FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP3005",
+    "linea": "BOR FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP3006",
+    "linea": "BOR FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP3007",
+    "linea": "BOR FDO AM INT OVE INT"
+  },
+  {
+    "codigo": "CP3008",
+    "linea": "BOR FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP3009",
+    "linea": "BOR FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP3010",
+    "linea": "BOR FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP3011",
+    "linea": "BOR FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3012",
+    "linea": "BOR FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3013",
+    "linea": "BOR FDO CANELA BLANCO MELANICO"
+  },
+  {
+    "codigo": "CP3014",
+    "linea": "BOR FDO CANELA BLANCO OVERO LIP"
+  },
+  {
+    "codigo": "CP3015",
+    "linea": "BOR FDO CANELA BLANCO OVERO MELANICO"
+  },
+  {
+    "codigo": "CP3016",
+    "linea": "BOR FDO CANELA AM INT MELANICO"
+  },
+  {
+    "codigo": "CP3017",
+    "linea": "BOR FDO CANELA AM INT OVERO LIP"
+  },
+  {
+    "codigo": "CP3018",
+    "linea": "BOR FDO CANELA AM INT OVERO MELANICO"
+  },
+  {
+    "codigo": "CP3019",
+    "linea": "BOR FDO CANELA AM NEV MELANICO"
+  },
+  {
+    "codigo": "CP3020",
+    "linea": "BOR FDO CANELA AM NEV OVERO LIP"
+  },
+  {
+    "codigo": "CP3021",
+    "linea": "BOR FDO CANELA AM NEV OVERO MELANICO"
+  },
+  {
+    "codigo": "CP3101",
+    "linea": "NORW FDO BL LIP"
+  },
+  {
+    "codigo": "CP3102",
+    "linea": "NORW FDO BL MEL"
+  },
+  {
+    "codigo": "CP3103",
+    "linea": "NORW FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP3104",
+    "linea": "NORW FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP3105",
+    "linea": "NORW FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP3106",
+    "linea": "NORW FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP3107",
+    "linea": "NORW FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP3108",
+    "linea": "NORW FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP3109",
+    "linea": "NORW FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP3110",
+    "linea": "NORW FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP3111",
+    "linea": "NORW FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3112",
+    "linea": "NORW FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3113",
+    "linea": "NORW FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP3114",
+    "linea": "NORW FDO RO IN MEL"
+  },
+  {
+    "codigo": "CP3115",
+    "linea": "NORW FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP3116",
+    "linea": "NORW FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP3117",
+    "linea": "NORW FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP3118",
+    "linea": "NORW FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP3119",
+    "linea": "NORW FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3120",
+    "linea": "NORW FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3201",
+    "linea": "YORK FDO BL LIP"
+  },
+  {
+    "codigo": "CP3202",
+    "linea": "YORK FDO BL MEL"
+  },
+  {
+    "codigo": "CP3203",
+    "linea": "YORK FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP3204",
+    "linea": "YORK FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP3205",
+    "linea": "YORK FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP3206",
+    "linea": "YORK FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP3207",
+    "linea": "YORK FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP3208",
+    "linea": "YORK FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP3209",
+    "linea": "YORK FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP3210",
+    "linea": "YORK FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP3211",
+    "linea": "YORK FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3212",
+    "linea": "YORK FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3213",
+    "linea": "YORK FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP3214",
+    "linea": "YORK FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP3215",
+    "linea": "YORK FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP3216",
+    "linea": "YORK FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP3217",
+    "linea": "YORK FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP3218",
+    "linea": "YORK FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP3219",
+    "linea": "YORK FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3220",
+    "linea": "YORK FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3301",
+    "linea": "LLARG ESP FDO BL LIP"
+  },
+  {
+    "codigo": "CP3302",
+    "linea": "LLARG ESP FDO BL MEL"
+  },
+  {
+    "codigo": "CP3303",
+    "linea": "LLARG ESP FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP3304",
+    "linea": "LLARG ESP FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP3305",
+    "linea": "LLARG ESP FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP3306",
+    "linea": "LLARG ESP FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP3307",
+    "linea": "LLARG ESP FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP3308",
+    "linea": "LLARG ESP FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP3309",
+    "linea": "LLARG ESP FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP3310",
+    "linea": "LLARG ESP FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP3311",
+    "linea": "LLARG ESP FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3312",
+    "linea": "LLARG ESP FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3313",
+    "linea": "LLARG ESP FDO RO INT LIP"
+  },
+  {
+    "codigo": "CP3314",
+    "linea": "LLARG ESP FDO RO INT MEL"
+  },
+  {
+    "codigo": "CP3315",
+    "linea": "LLARG ESP FDO RO INT OVE LIP"
+  },
+  {
+    "codigo": "CP3316",
+    "linea": "LLARG ESP FDO RO INT OVE MEL"
+  },
+  {
+    "codigo": "CP3317",
+    "linea": "LLARG ESP FDO RO NEV LIP"
+  },
+  {
+    "codigo": "CP3318",
+    "linea": "LLARG ESP FDO RO NEV MEL"
+  },
+  {
+    "codigo": "CP3319",
+    "linea": "LLARG ESP FDO RO NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3320",
+    "linea": "LLARG ESP FDO RO NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3401",
+    "linea": "BER FDO BL LIP"
+  },
+  {
+    "codigo": "CP3402",
+    "linea": "BER FDO BL MEL"
+  },
+  {
+    "codigo": "CP3403",
+    "linea": "BER FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP3404",
+    "linea": "BER FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP3405",
+    "linea": "BER FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP3406",
+    "linea": "BER FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP3407",
+    "linea": "BER FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP3408",
+    "linea": "BER FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP3409",
+    "linea": "BER FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP3410",
+    "linea": "BER FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP3411",
+    "linea": "BER FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3412",
+    "linea": "BER FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3501",
+    "linea": "FIFE FAN FDO BL LIP"
+  },
+  {
+    "codigo": "CP3502",
+    "linea": "FIFE FAN FDO BL MEL"
+  },
+  {
+    "codigo": "CP3503",
+    "linea": "FIFE FAN FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP3504",
+    "linea": "FIFE FAN FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP3505",
+    "linea": "FIFE FAN FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP3506",
+    "linea": "FIFE FAN FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP3507",
+    "linea": "FIFE FAN FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP3508",
+    "linea": "FIFE FAN FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP3509",
+    "linea": "FIFE FAN FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP3510",
+    "linea": "FIFE FAN FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP3511",
+    "linea": "FIFE FAN FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3512",
+    "linea": "FIFE FAN FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3513",
+    "linea": "FIFE FANCY FDO CANELA BLANCO MELANICO"
+  },
+  {
+    "codigo": "CP3514",
+    "linea": "FIFE FANCY FDO CANELA BLANCO OVERO LIP"
+  },
+  {
+    "codigo": "CP3515",
+    "linea": "FIFE FANCY FDO CANELA BLANCO OVERO MELANICO"
+  },
+  {
+    "codigo": "CP3516",
+    "linea": "FIFE FANCY FDO CANELA AM INT MELANICO"
+  },
+  {
+    "codigo": "CP3517",
+    "linea": "FIFE FANCY FDO CANELA AM INT OVERO LIP"
+  },
+  {
+    "codigo": "CP3518",
+    "linea": "FIFE FANCY FDO CANELA AM INT OVERO MELANICO"
+  },
+  {
+    "codigo": "CP3519",
+    "linea": "FIFE FANCY FDO CANELA AM NEV MELANICO"
+  },
+  {
+    "codigo": "CP3520",
+    "linea": "FIFE FANCY FDO CANELA AM NEV OVERO LIP"
+  },
+  {
+    "codigo": "CP3521",
+    "linea": "FIFE FANCY FDO CANELA AM NEV OVERO MELANICO"
+  },
+  {
+    "codigo": "CP3601",
+    "linea": "RZA ESP FDO BL LIP"
+  },
+  {
+    "codigo": "CP3602",
+    "linea": "RZA ESP FDO BL MEL"
+  },
+  {
+    "codigo": "CP3603",
+    "linea": "RZA ESP FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP3604",
+    "linea": "RZA ESP FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP3605",
+    "linea": "RZA ESP FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP3606",
+    "linea": "RZA ESP FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP3607",
+    "linea": "RZA ESP FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP3608",
+    "linea": "RZA ESP FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP3609",
+    "linea": "RZA ESP FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP3610",
+    "linea": "RZA ESP FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP3611",
+    "linea": "RZA ESP FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3612",
+    "linea": "RZA ESP FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP3701",
+    "linea": "IRISH FAN FDO BL LIP"
+  },
+  {
+    "codigo": "CP3702",
+    "linea": "IRISH FAN FDO BL MEL"
+  },
+  {
+    "codigo": "CP3703",
+    "linea": "IRISH FAN FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP3704",
+    "linea": "IRISH FAN FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP3705",
+    "linea": "IRISH FAN FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP3706",
+    "linea": "IRISH FAN FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP3707",
+    "linea": "IRISH FAN FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP3708",
+    "linea": "IRISH FAN FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP3709",
+    "linea": "IRISH FAN FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP3710",
+    "linea": "IRISH FAN FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP3711",
+    "linea": "IRISH FAN FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP3712",
+    "linea": "IRISH FAN FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP5001",
+    "linea": "LIZ CUPULA PERF FDO BL"
+  },
+  {
+    "codigo": "CP5002",
+    "linea": "LIZ CUPULA PERF FDO AM INT"
+  },
+  {
+    "codigo": "CP5003",
+    "linea": "LIZ CUPULA PERF FDO AM NEV"
+  },
+  {
+    "codigo": "CP5004",
+    "linea": "LIZ CUPULA PERF FDO RO INT"
+  },
+  {
+    "codigo": "CP5005",
+    "linea": "LIZ CUPULA PERF FDO RO NEV"
+  },
+  {
+    "codigo": "CP5006",
+    "linea": "LIZ SIN CUPULA FDO BL"
+  },
+  {
+    "codigo": "CP5007",
+    "linea": "LIZ SIN CUPULA FDO AM INT"
+  },
+  {
+    "codigo": "CP5008",
+    "linea": "LIZ SIN CUPULA FDO AM NEV"
+  },
+  {
+    "codigo": "CP5009",
+    "linea": "LIZ SIN CUPULA FDO RO INT"
+  },
+  {
+    "codigo": "CP5010",
+    "linea": "LIZ SIN CUPULA FDO RO NEV"
+  },
+  {
+    "codigo": "CP5011",
+    "linea": "LIZ CUPULA IMPERF FDO BL"
+  },
+  {
+    "codigo": "CP5012",
+    "linea": "LIZ CUPULA IMPERF FDO AM INT"
+  },
+  {
+    "codigo": "CP5013",
+    "linea": "LIZ CUPULA IMPERF FDO AM NEV"
+  },
+  {
+    "codigo": "CP5014",
+    "linea": "LIZ CUPULA IMPERF FDO RO INT"
+  },
+  {
+    "codigo": "CP5015",
+    "linea": "LIZ CUPULA IMPERF FDO RO NEV"
+  },
+  {
+    "codigo": "CP6001",
+    "linea": "COP ALEM FDO BLANCO LIP. (DTES , REC y ALBINOS)"
+  },
+  {
+    "codigo": "CP6003",
+    "linea": "COP ALEM FDO AMA. INT. LIP (INCLUYE MARFIL y LUTINOS)"
+  },
+  {
+    "codigo": "CP6004",
+    "linea": "COP ALEM FDO AMA. NEV. LIP (INCLUYE MARFIL y LUTINOS)"
+  },
+  {
+    "codigo": "CP6005",
+    "linea": "COP ALEM FDO AMA. MOSAICO MACHO LIP. (INCLUYE MARFIL yLUTINOS)"
+  },
+  {
+    "codigo": "CP6006",
+    "linea": "COP ALEM FDO AMA. MOSAICO HEMBRA LIP. (INCLUYE MARFIL y LUTINOS)"
+  },
+  {
+    "codigo": "CP6041",
+    "linea": "COP ALEM FDO ROJO INTENSO LIP. (INCLUYE MARFIL, RUBINO Y URUCUM)"
+  },
+  {
+    "codigo": "CP6042",
+    "linea": "COP ALEM FDO ROJO NEVADO LIP. (INCLUYE MARFIL, RUBINO Y URUCUM)"
+  },
+  {
+    "codigo": "CP6043",
+    "linea": "COP ALEM FDO ROJO MOSAICO MACHO LIP. (INCLUYE MARFIL, RUBINO Y URUCUM)"
+  },
+  {
+    "codigo": "CP6044",
+    "linea": "COP ALEM FDO ROJO MOSAICO HEMBRA LIP. (INCLUYE MARFIL, RUBINO Y URUCUM)"
+  },
+  {
+    "codigo": "CP6081",
+    "linea": "COP ALEM FDO BLANCO MELANICO NEGRO (TODOS)"
+  },
+  {
+    "codigo": "CP6083",
+    "linea": "COP ALEM FDO INTENSO MELÁNICOS NEGROS (TODOS)"
+  },
+  {
+    "codigo": "CP6084",
+    "linea": "COP ALEM FDO NEVADO MELÁNICOS NEGROS (TODOS)"
+  },
+  {
+    "codigo": "CP6085",
+    "linea": "COP ALEM FDO MOSAICO MACHO MELÁNICOS NEGROS (TODOS)"
+  },
+  {
+    "codigo": "CP6086",
+    "linea": "COP ALEM FDO MOSAICO HEMBRAS MELANICAS NEGRAS (TODOS)"
+  },
+  {
+    "codigo": "CP6091",
+    "linea": "COP ALEM FDO BLANCO MELANICO CANELA (TODOS)"
+  },
+  {
+    "codigo": "CP6093",
+    "linea": "COP ALEM FDO INTENSO MELÁNICO CANELA (TODOS)"
+  },
+  {
+    "codigo": "CP6094",
+    "linea": "COP ALEM FDO NEVADO MELÁNICO CANELA (TODOS)"
+  },
+  {
+    "codigo": "CP6095",
+    "linea": "COP ALEM FDO MOSAICO MACHO MELÁNICO CANELA (TODOS)"
+  },
+  {
+    "codigo": "CP6096",
+    "linea": "COP ALEM FDO MOSAICO HEMBRA MELÁNICO CANELA (TODOS)"
+  },
+  {
+    "codigo": "CP6101",
+    "linea": "COP ALEM FDO BLANCO MELANICO AGATAS (TODOS)"
+  },
+  {
+    "codigo": "CP6103",
+    "linea": "COP ALEM FDO INTENSO MELÁNICO AGATAS (TODOS)"
+  },
+  {
+    "codigo": "CP6104",
+    "linea": "COP ALEM FDO NEVADO MELÁNICO AGATAS (TODOS)"
+  },
+  {
+    "codigo": "CP6105",
+    "linea": "COP ALEM FDO MOSAICO MACHO MELÁNICO AGATAS (TODOS)"
+  },
+  {
+    "codigo": "CP6106",
+    "linea": "COP ALEM FDO MOSAICO HEMBRA MELÁNICO AGATAS (TODOS)"
+  },
+  {
+    "codigo": "CP6111",
+    "linea": "COP ALEM FDO BLANCO ISABEL/SATINÉ (TODOS)"
+  },
+  {
+    "codigo": "CP6113",
+    "linea": "COP ALEM FDO INTENSO MELÁNICO ISABEL/SATINE (TODOS)"
+  },
+  {
+    "codigo": "CP6114",
+    "linea": "COP ALEM FDO NEVADO MELÁNICO ISABEL/SATINE (TODOS)"
+  },
+  {
+    "codigo": "CP6115",
+    "linea": "COP ALEM FDO MOSAICO MACHO MELÁNICO ISABEL/SATINE (TODOS)"
+  },
+  {
+    "codigo": "CP6116",
+    "linea": "COP ALEM FDO MOSAICO HEMBRA MELÁNICO ISABEL/SATINE (TODOS)"
+  },
+  {
+    "codigo": "CP6297",
+    "linea": "COP ALEM FDO BLANCO FEO (TODOS)"
+  },
+  {
+    "codigo": "CP6299",
+    "linea": "COP ALEM FDO INTENSO MELÁNICO FEO (TODOS)"
+  },
+  {
+    "codigo": "CP6300",
+    "linea": "COP ALEM FDO NEVADO MELÁNICO FEO (TODOS)"
+  },
+  {
+    "codigo": "CP6301",
+    "linea": "COP ALEM FDO MOSAICO MACHO MELÁNICO FEO (TODOS)"
+  },
+  {
+    "codigo": "CP6334",
+    "linea": "COP ALEM FDO MOSAICO HEMBRA MELÁNICO FEO (TODOS)"
+  },
+  {
+    "codigo": "CP7001",
+    "linea": "GLOS CONSORTE FDO BL LIP"
+  },
+  {
+    "codigo": "CP7002",
+    "linea": "GLOS CONSORTE FDO BL MEL"
+  },
+  {
+    "codigo": "CP7003",
+    "linea": "GLOS CONSORTE FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP7004",
+    "linea": "GLOS CONSORTE FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP7005",
+    "linea": "GLOS CONSORTE FDO AM IN LIP"
+  },
+  {
+    "codigo": "CP7006",
+    "linea": "GLOS CONSORTE FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP7007",
+    "linea": "GLOS CONSORTE FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP7008",
+    "linea": "GLOS CONSORTE FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP7009",
+    "linea": "GLOS CONSORTE FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP7010",
+    "linea": "GLOS CONSORTE FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP7011",
+    "linea": "GLOS CONSORTE FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP7012",
+    "linea": "GLOS CONSORTE FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP7013",
+    "linea": "GLOS CONSORTE FDO CANELA BLANCO MELANICO"
+  },
+  {
+    "codigo": "CP7014",
+    "linea": "GLOS CONSORTE FDO CANELA BLANCO OVERO LIP"
+  },
+  {
+    "codigo": "CP7015",
+    "linea": "GLOS CONSORTE FDO CANELA BLANCO OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7016",
+    "linea": "GLOS CONSORTE FDO CANELA AM INT MELANICO"
+  },
+  {
+    "codigo": "CP7017",
+    "linea": "GLOS CONSORTE FDO CANELA AM INT OVERO LIP"
+  },
+  {
+    "codigo": "CP7018",
+    "linea": "GLOS CONSORTE FDO CANELA AM INT OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7019",
+    "linea": "GLOS CONSORTE FDO CANELA AM NEV MELANICO"
+  },
+  {
+    "codigo": "CP7020",
+    "linea": "GLOS CONSORTE FDO CANELA AM NEV OVERO LIP"
+  },
+  {
+    "codigo": "CP7021",
+    "linea": "GLOS CONSORTE FDO CANELA AM NEV OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7022",
+    "linea": "GLOS CORONA FDO BL LIP"
+  },
+  {
+    "codigo": "CP7023",
+    "linea": "GLOS CORONA FDO BL MEL"
+  },
+  {
+    "codigo": "CP7024",
+    "linea": "GLOS CORONA FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP7025",
+    "linea": "GLOS CORONA FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP7026",
+    "linea": "GLOS CORONA FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP7027",
+    "linea": "GLOS CORONA FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP7028",
+    "linea": "GLOS CORONA FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP7029",
+    "linea": "GLOS CORONA FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP7030",
+    "linea": "GLOS CORONA FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP7031",
+    "linea": "GLOS CORONA FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP7032",
+    "linea": "GLOS CORONA FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP7033",
+    "linea": "GLOS CORONA FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP7034",
+    "linea": "GLOS CORONA FDO CANELA BLANCO MELANICO"
+  },
+  {
+    "codigo": "CP7035",
+    "linea": "GLOS CORONA FDO CANELA BLANCO OVERO LIP"
+  },
+  {
+    "codigo": "CP7036",
+    "linea": "GLOS CORONA FDO CANELA BLANCO OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7037",
+    "linea": "GLOS CORONA FDO CANELA AM INT MELANICO"
+  },
+  {
+    "codigo": "CP7038",
+    "linea": "GLOS CORONA FDO CANELA AM INT OVERO LIP"
+  },
+  {
+    "codigo": "CP7039",
+    "linea": "GLOS CORONA FDO CANELA AM INT OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7040",
+    "linea": "GLOS CORONA FDO CANELA AM NEV MELANICO"
+  },
+  {
+    "codigo": "CP7041",
+    "linea": "GLOS CORONA FDO CANELA AM NEV OVERO LIP"
+  },
+  {
+    "codigo": "CP7042",
+    "linea": "GLOS CORONA FDO CANELA AM NEV OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7101",
+    "linea": "LANCA CONSORTE FDO BL"
+  },
+  {
+    "codigo": "CP7102",
+    "linea": "LANCA CONSORTE FDO BL MEL"
+  },
+  {
+    "codigo": "CP7103",
+    "linea": "LANCA CONSORTE FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP7104",
+    "linea": "LANCA CONSORTE FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP7105",
+    "linea": "LANCA CONSORTE FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP7106",
+    "linea": "LANCA CONSORTE FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP7107",
+    "linea": "LANCA CONSORTE FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP7108",
+    "linea": "LANCA CONSORTE FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP7109",
+    "linea": "LANCA CONSORTE FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP7110",
+    "linea": "LANCA CONSORTE FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP7111",
+    "linea": "LANCA CONSORTE FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP7112",
+    "linea": "LANCA CONSORTE FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP7113",
+    "linea": "LANCA CORONA (COPY) FDO BL"
+  },
+  {
+    "codigo": "CP7114",
+    "linea": "LANCA CORONA (COPY) FDO BL MEL"
+  },
+  {
+    "codigo": "CP7115",
+    "linea": "LANCA CORONA (COPY) FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP7116",
+    "linea": "LANCA CORONA (COPY) FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP7117",
+    "linea": "LANCA CORONA (COPY) FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP7118",
+    "linea": "LANCA CORONA (COPY) FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP7119",
+    "linea": "LANCA CORONA (COPY) FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP7120",
+    "linea": "LANCA CORONA (COPY) FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP7121",
+    "linea": "LANCA CORONA (COPY) FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP7122",
+    "linea": "LANCA CORONA (COPY) FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP7123",
+    "linea": "LANCA CORONA (COPY) FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP7124",
+    "linea": "LANCA CORONA (COPY) FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP7201",
+    "linea": "CRE BRED (SIN CORONA) FDO BL LIP"
+  },
+  {
+    "codigo": "CP7202",
+    "linea": "CRE BRED (SIN CORONA) FDO BL MEL"
+  },
+  {
+    "codigo": "CP7203",
+    "linea": "CRE BRED (SIN CORONA) FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP7204",
+    "linea": "CRE BRED (SIN CORONA) FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP7205",
+    "linea": "CRE BRED (SIN CORONA) FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP7206",
+    "linea": "CRE BRED (SIN CORONA) FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP7207",
+    "linea": "CRE BRED (SIN CORONA) FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP7208",
+    "linea": "CRE BRED (SIN CORONA) FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP7209",
+    "linea": "CRE BRED (SIN CORONA) FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP7210",
+    "linea": "CRE BRED (SIN CORONA) FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP7211",
+    "linea": "CRE BRED (SIN CORONA) FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP7212",
+    "linea": "CRE BRED (SIN CORONA) FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP7213",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA BLANCO MELANICO"
+  },
+  {
+    "codigo": "CP7214",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA BLANCO OVERO LIP"
+  },
+  {
+    "codigo": "CP7215",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA BLANCO OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7216",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA AM INT MELANICO"
+  },
+  {
+    "codigo": "CP7217",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA AM INT OVERO LIP"
+  },
+  {
+    "codigo": "CP7218",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA AM INT OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7219",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA AM NEV MELANICO"
+  },
+  {
+    "codigo": "CP7220",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA AM NEV OVERO LIP"
+  },
+  {
+    "codigo": "CP7221",
+    "linea": "CRE BRED (SIN CORONA) FDO CANELA AM NEV OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7222",
+    "linea": "CRESTED (CORONA) FDO BL LIP"
+  },
+  {
+    "codigo": "CP7223",
+    "linea": "CRESTED (CORONA) FDO BL MEL"
+  },
+  {
+    "codigo": "CP7224",
+    "linea": "CRESTED (CORONA) FDO BL OVE LIP"
+  },
+  {
+    "codigo": "CP7225",
+    "linea": "CRESTED (CORONA) FDO BL OVE MEL"
+  },
+  {
+    "codigo": "CP7226",
+    "linea": "CRESTED (CORONA) FDO AM INT LIP"
+  },
+  {
+    "codigo": "CP7227",
+    "linea": "CRESTED (CORONA) FDO AM INT MEL"
+  },
+  {
+    "codigo": "CP7228",
+    "linea": "CRESTED (CORONA) FDO AM INT OVE LIP"
+  },
+  {
+    "codigo": "CP7229",
+    "linea": "CRESTED (CORONA) FDO AM INT OVE MEL"
+  },
+  {
+    "codigo": "CP7230",
+    "linea": "CRESTED (CORONA) FDO AM NEV LIP"
+  },
+  {
+    "codigo": "CP7231",
+    "linea": "CRESTED (CORONA) FDO AM NEV MEL"
+  },
+  {
+    "codigo": "CP7232",
+    "linea": "CRESTED (CORONA) FDO AM NEV OVE LIP"
+  },
+  {
+    "codigo": "CP7233",
+    "linea": "CRESTED (CORONA) FDO AM NEV OVE MEL"
+  },
+  {
+    "codigo": "CP7234",
+    "linea": "CRESTED (CORONA) FDO CANELA BLANCO MELANICO"
+  },
+  {
+    "codigo": "CP7235",
+    "linea": "CRESTED (CORONA) FDO CANELA BLANCO OVERO LIP"
+  },
+  {
+    "codigo": "CP7236",
+    "linea": "CRESTED (CORONA) FDO CANELA BLANCO OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7237",
+    "linea": "CRESTED (CORONA) FDO CANELA AM INT MELANICO"
+  },
+  {
+    "codigo": "CP7238",
+    "linea": "CRESTED (CORONA)) FDO CANELA AM INT OVERO LIP"
+  },
+  {
+    "codigo": "CP7239",
+    "linea": "CRESTED (CORONA) FDO CANELA AM INT OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7240",
+    "linea": "CRESTED (CORONA) FDO CANELA AM NEV MELANICO"
+  },
+  {
+    "codigo": "CP7241",
+    "linea": "CRESTED (CORONA) FDO CANELA AM NEV OVERO LIP"
+  },
+  {
+    "codigo": "CP7242",
+    "linea": "CRESTED (CORONA) FDO CANELA AM NEV OVERO MELANICO"
+  },
+  {
+    "codigo": "CP7301",
+    "linea": "RHEIN CONSORTE FDO BL"
+  },
+  {
+    "codigo": "CP7302",
+    "linea": "RHEIN CONSORTE FDO AM INT"
+  },
+  {
+    "codigo": "CP7303",
+    "linea": "RHEIN CONSORTE FDO AM NEV"
+  },
+  {
+    "codigo": "CP7304",
+    "linea": "RHEIN CONSORTE FDO RO INT"
+  },
+  {
+    "codigo": "CP7305",
+    "linea": "RHEIN CONSORTE FDO RO NEV"
+  },
+  {
+    "codigo": "CP7306",
+    "linea": "RHEIN CORONA BL"
+  },
+  {
+    "codigo": "CP7307",
+    "linea": "RHEIN CORONA AM INT"
+  },
+  {
+    "codigo": "CP7308",
+    "linea": "RHEIN CORONA AM NEV"
+  },
+  {
+    "codigo": "CP7309",
+    "linea": "RHEIN CORONA RO INT"
+  },
+  {
+    "codigo": "CP7310",
+    "linea": "RHEIN CORONA RO NEV"
+  },
+  {
+    "codigo": "CP7401",
+    "linea": "ARLEQUIN PORTUGUES SIN CASCO MACHO"
+  },
+  {
+    "codigo": "CP7402",
+    "linea": "ARLEQUIN PORTUGUES SIN CASCO HEMBRA"
+  },
+  {
+    "codigo": "CP7403",
+    "linea": "ARLEQUIN PORTUGUES CON CASCO MACHO"
+  },
+  {
+    "codigo": "CP7404",
+    "linea": "ARLEQUIN PORTUGUES CON CASCO HEMBRA"
+  },
+  {
+    "codigo": "CP7501",
+    "linea": "ROGETTO TODAS LAS VARIEDADES DE FONDO BLANCO (LIP/MEL/OV. LIP/OV MEL.)"
+  },
+  {
+    "codigo": "CP7502",
+    "linea": "ROGETTO FONDO LIPOCRÓMICO"
+  },
+  {
+    "codigo": "CP7503",
+    "linea": "ROGETTO FONDO MELÁNICO"
+  },
+  {
+    "codigo": "CP7504",
+    "linea": "ROGETTO FONDO OVERO LIPOCRÓMICO"
+  },
+  {
+    "codigo": "CP7505",
+    "linea": "ROGETTO FONDO OVERO MELANICO"
+  },
+  {
+    "codigo": "CP9901",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA LISA FDO BL"
+  },
+  {
+    "codigo": "CP9902",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA LISA FDO AM INT"
+  },
+  {
+    "codigo": "CP9903",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA LISA FDO AM NEV"
+  },
+  {
+    "codigo": "CP9904",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA LISA FDO RO INT"
+  },
+  {
+    "codigo": "CP9905",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA LISA FDO RO NEV"
+  },
+  {
+    "codigo": "CP9906",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA LISA FDO BL"
+  },
+  {
+    "codigo": "CP9907",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA LISA FDO AM INT"
+  },
+  {
+    "codigo": "CP9908",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA LISA FDO AM NEV"
+  },
+  {
+    "codigo": "CP9909",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA LISA FDO RO INT"
+  },
+  {
+    "codigo": "CP9910",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA LISA FDO RO NEV"
+  },
+  {
+    "codigo": "CP9911",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA RIZADA FDO BL"
+  },
+  {
+    "codigo": "CP9912",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA RIZADA FDO AM INT"
+  },
+  {
+    "codigo": "CP9913",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA RIZADA FDO AM NEV"
+  },
+  {
+    "codigo": "CP9914",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA RIZADA FDO RO INT"
+  },
+  {
+    "codigo": "CP9915",
+    "linea": "NUEVAS RAZAS EN ESTUDIO SIN COPETE DE PLUMA RIZADA FDO RO NEV"
+  },
+  {
+    "codigo": "CP9916",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA RIZADA FDO BL"
+  },
+  {
+    "codigo": "CP9917",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA RIZADA FDO AM INT"
+  },
+  {
+    "codigo": "CP9918",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA RIZADA FDO AM NEV"
+  },
+  {
+    "codigo": "CP9919",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA RIZADA FDO RO INT"
+  },
+  {
+    "codigo": "CP9920",
+    "linea": "NUEVAS RAZAS EN ESTUDIO CON COPETE DE PLUMA RIZADA FDO RO NEV"
+  }
+]

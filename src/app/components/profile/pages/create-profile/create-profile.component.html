@@ -1,0 +1,101 @@
+<!-- <div class="card text-center ancho" *ngIf="!loading">
+    <div class="card-header">
+        <h1 class="card-title">Perfil</h1>
+    </div>
+    <div class="card-body">
+        <div class="profile-image">
+            <img  class="profile-image" src="../../../../../assets/img/images.png" alt="" width="120" height="120">
+        </div>
+      <form [formGroup]="createProfile" (ngSubmit)="crearPerfil()">
+        <div class="form-floating mb-3 alineo">
+            <input type="email" class="form-control" placeholder="name@example.com" formControlName="email">
+            <label>Correo</label>
+            <span *ngIf="createProfile.get('email')?.hasError('required') && createProfile.get('email')?.touched" 
+            class="text-danger errorLabel">
+              El <strong>correo</strong> es requerido
+            </span>
+            <span *ngIf="createProfile.get('email')?.hasError('email') && createProfile.get('email')?.touched" 
+            class="text-danger errorLabel">
+              El <strong>formato del correo</strong> es invalido
+            </span>
+          </div>
+          <div class="d-grid gap-2">
+            <button class="btn btn-primary btn-lg" [disabled]="createProfile.invalid" type="submit">Registrarse</button>
+          </div>
+          
+    </form>
+    </div>
+    <div class="card-footer text-muted">
+      <h5>algo va aca botones capaz</h5>
+    </div>
+  </div> -->
+
+<div class="container bootstrap snippets bootdey">
+  <h1 class="text-primary">Crear perfil</h1>
+  <hr />
+  <div class="row">
+    <!-- left column -->
+    <div class="col-md-3">
+      <div class="text-center avatar">
+        <img
+          src="https://bootdey.com/img/Content/avatar/avatar7.png"
+          class="avatar img-circle img-thumbnail"
+          alt="avatar"
+          id="imgMuestra"
+        />
+        <input (change)="uploadFile($event)" type="file" class="form-control" accept=".jpg,.png,.jpeg" />
+      </div>
+    </div>
+
+    <!-- edit form column -->
+    <div class="col-md-9 personal-info">
+      <h3>Informacion personal</h3>
+
+      <form class="form-horizontal" [formGroup]="createProfile" (ngSubmit)="registerProfile()">
+        <div class="form-group">
+          <label class="col-lg-3 control-label">Nombre:</label>
+          <div class="col-lg-8">
+            <input class="form-control" type="text" formControlName="name"/>
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-lg-3 control-label">Apellido:</label>
+          <div class="col-lg-8">
+            <input class="form-control" type="text" formControlName="lastName"/>
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-lg-3 control-label">Correo:</label>
+          <div class="col-lg-8">
+            <input class="form-control" type="text" formControlName="email" />
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-lg-3 control-label">Codigo criador:</label>
+          <div class="col-lg-8">
+            <input class="form-control" type="text" formControlName="breabreedingCode" />
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-lg-3 control-label">Ciudad:</label>
+          <div class="col-lg-8">
+            <input class="form-control" type="text" formControlName="city" />
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-lg-3 control-label">Provincia:</label>
+          <div class="col-lg-8">
+            <input class="form-control" type="text" formControlName="state" />
+          </div>
+        </div>
+        <div class="form-group mt-3">
+            <button type="submit" class="btn btn-success">Aceptar</button>
+          <button type="button" class="btn btn-info ms-3" [routerLink]="['/home/index']">Omitir</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<hr />
+
+<app-spinner *ngIf="loading"></app-spinner>
